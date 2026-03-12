@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://owncast.sicnal-stream.de/logo",[SIC]NAL
+https://owncast.sicnal-stream.de/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://livestream.rasat.tv/logo",Radio-Satisfaction.de *Livestream*
+https://livestream.rasat.tv/hls/stream.m3u8
