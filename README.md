@@ -10,6 +10,12 @@ An automated M3U playlist generator for Owncast streams. This repository fetches
 https://raw.githubusercontent.com/owen-the-kid/OwnCast-M3U-Generator/main/owncast.m3u
 ```
 
+### Bit.ly Link
+
+```
+https://bit.ly/3P88c3s
+```
+
 ### VLC
 
 1. Open VLC
