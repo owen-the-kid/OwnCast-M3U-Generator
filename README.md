@@ -22,27 +22,19 @@ https://bit.ly/3P88c3s
 2. Click **Media → Open Network Stream** (or press `Ctrl+N`)
 3. Paste the URL above and click **Play**
 
-### Kodi
-
-1. Install the **PVR IPTV Simple Client** add-on
-2. Go to **Settings → PVR & Live TV → PVR IPTV Simple Client → Configure**
-3. Set **M3U playlist URL** to the URL above
-
 ### Jellyfin
 
 1. Go to **Dashboard → Live TV**
 2. Click **Add Tuner Device**
 3. Select **M3U Tuner** and paste the URL above
 
-### mpv
-
-```bash
-mpv https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/owncast.m3u
-```
-
 ## Playlist Updates
 
 This playlist is automatically updated once every day using GitHub Actions. The workflow fetches the latest streams from the Owncast directory and commits the updated `owncast.m3u` to this repository.
+
+## Why?
+
+Because the officual playlist uses a abnormal format that isn't used by everyone.
 
 ## Technical Details
 
@@ -64,7 +56,6 @@ This playlist is automatically updated once every day using GitHub Actions. The 
 If the playlist isn't updating:
 
 - Check the **Actions** tab to see if the workflow ran successfully
-- Make sure **Read and write permissions** is enabled under Settings → Actions → General
 
 ## License
 
