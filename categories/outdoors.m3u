@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://silo.ffmuc.net/logo",Freifunk München - Weather Stream
+https://silo.ffmuc.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://theupperleft.thesprawl.online/logo",TheUpperLeft
+https://theupperleft.thesprawl.online/hls/stream.m3u8
