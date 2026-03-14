@@ -5,6 +5,3 @@ https://live.retrostrange.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.kitsunech.jp.net/logo",Kitsune Channel
-https://live.kitsunech.jp.net/hls/stream.m3u8
