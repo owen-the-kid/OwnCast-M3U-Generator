@@ -135,15 +135,22 @@ def resolve_all_logos(entries: list) -> dict:
 # M3U builder
 # ---------------------------------------------------------------------------
 
-def build_m3u(entries: list, logo_map: dict) -> str:
-    """Build a clean M3U string from a list of entries."""
+def build_m3u(entries: list, logo_map: dict, include_groups: bool = False) -> str:
+    """Build a clean M3U string from a list of entries.
+
+    If include_groups is True, a group-title attribute is added to each entry
+    so players like VLC and Kodi can browse channels by category.
+    """
     lines = ["#EXTM3U", ""]
     for entry in entries:
-        logo = logo_map.get(entry["logo"], entry["logo"])
+        logo       = logo_map.get(entry["logo"], entry["logo"])
+        group      = entry["tags"][0] if entry["tags"] else "Uncategorized"
+        attrs      = ""
         if logo:
-            lines.append(f'#EXTINF:-1 tvg-logo="{logo}",{entry["name"]}')
-        else:
-            lines.append(f'#EXTINF:-1,{entry["name"]}')
+            attrs += f' tvg-logo="{logo}"'
+        if include_groups:
+            attrs += f' group-title="{group}"'
+        lines.append(f'#EXTINF:-1{attrs},{entry["name"]}')
         lines.append(entry["url"])
         lines.append("")
     return "\n".join(lines)
@@ -206,8 +213,12 @@ def main():
 
     logo_map = resolve_all_logos(entries)
 
-    # --- Main playlist ---
-    save(build_m3u(entries, logo_map), OUTPUT_FILE)
+    # --- Main playlist (sorted by category, with group-title for player browsing) ---
+    grouped_entries = sorted(
+        entries,
+        key=lambda e: (e["tags"][0].lower() if e["tags"] else "zzz", e["name"].lower())
+    )
+    save(build_m3u(grouped_entries, logo_map, include_groups=True), OUTPUT_FILE)
 
     # --- Per-category playlists ---
     groups = group_by_tag(entries)
