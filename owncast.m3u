@@ -9,8 +9,8 @@ https://live.verniy.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://live.iolambc.com/logo" group-title="church",Live.IolaMBC.com
 http://live.iolambc.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.unusualart.net/logo" group-title="experimental",Unusual Art
-https://stream.unusualart.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://movies.ctbperth.net.au/logo" group-title="community",Movies 24/7 on CTB
+https://movies.ctbperth.net.au/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://watch.chiptune.fm/logo" group-title="Music",24/7 Chiptune Radio
 https://watch.chiptune.fm/hls/stream.m3u8
@@ -27,8 +27,14 @@ https://live.smittystream.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://stream.flash-radio.de/logo" group-title="Music",Flash-Radio e.V.
 https://stream.flash-radio.de/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://stream.lalalatvchannel.com/logo" group-title="Music",lalala tv
+https://stream.lalalatvchannel.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://video.lpam.be/logo" group-title="Music",Radio Benelux Streaming
 https://video.lpam.be/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://livestream.rasat.tv/logo" group-title="Music",Radio-Satisfaction.de *Livestream*
+https://livestream.rasat.tv/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.rokjok.fm/logo" group-title="Music",RokJok.FM
 http://live.rokjok.fm/hls/stream.m3u8
@@ -36,11 +42,11 @@ http://live.rokjok.fm/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tv.theindiebeat.fm/logo" group-title="Music",The Indie Beat Television
 https://tv.theindiebeat.fm/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://stream.unusualart.net/logo" group-title="Music",Unusual Art
+https://stream.unusualart.net/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://mthrbord.tv/logo" group-title="Music",V O I D
 https://mthrbord.tv/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.nilustv.com/logo" group-title="nilustv",NilusTV
-https://tv.nilustv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://cartooncartoons.thatsoretro.com/logo" group-title="owncast",Cartoon Cartoons Network
 https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
@@ -50,9 +56,6 @@ https://watch.owncast.online/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://mystream.panafricanssi.org/logo" group-title="social",PANAfricanSSI  Live Stream
 https://mystream.panafricanssi.org/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://owncast.afterswim.org/logo" group-title="streaming",[after swim]
-https://owncast.afterswim.org/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://livestream.cobrasoft.org/logo" group-title="streaming",Cobra Live Stream Server
 https://livestream.cobrasoft.org/hls/stream.m3u8
@@ -69,9 +72,6 @@ https://live.electronicping.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://silo.ffmuc.net/logo" group-title="streaming",Freifunk München - Weather Stream
 https://silo.ffmuc.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.illustietor.com/logo" group-title="streaming",illuSTREAMS
-https://stream.illustietor.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://weinstream.de/logo" group-title="streaming",Keltern Live Streaming
 https://weinstream.de/hls/stream.m3u8
 
@@ -81,11 +81,17 @@ https://tv.kenobisboch.it/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://leighton.prcht.host/logo" group-title="streaming",Leighton Media Live
 https://leighton.prcht.host/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://owncast.cdrom.tokyo/logo" group-title="streaming",LIVE: シーディーロム【﻿Ｓｈｉｄｉｒｏｍｕ】
+https://owncast.cdrom.tokyo/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://admin.mcoctv.us/logo" group-title="streaming",Manhattan Church TV
 https://admin.mcoctv.us/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.mediagoober.com/logo" group-title="streaming",MediaGoober
 https://tv.mediagoober.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://owncast.mellowmountainradio.com/logo" group-title="streaming",Mellow Mountain Radio
+https://owncast.mellowmountainradio.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://stream.nagafm.in/logo" group-title="streaming",Naga FM Live Stream
 https://stream.nagafm.in/hls/stream.m3u8
@@ -111,6 +117,9 @@ https://live.retrostrange.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://sashacam.sashanet.net/logo" group-title="streaming",SashaCam - hungry outside cats
 https://sashacam.sashanet.net/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://owncast.bowlafterbowl.com/logo" group-title="streaming",SX Worldwide
+https://owncast.bowlafterbowl.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://tavlive.com/logo" group-title="streaming",TAV Network
 https://tavlive.com/hls/stream.m3u8
 
@@ -123,14 +132,14 @@ https://theupperleft.thesprawl.online/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tuxsa.net/logo" group-title="streaming",TUXSA TV
 https://tuxsa.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.lrnz.it/logo" group-title="streaming",TV.LRNZ.IT
-https://tv.lrnz.it/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://stream.cosigo.io/logo" group-title="streaming",Welcome to the COSIGO™ live stream. Discussion of the silver-backed ERC-20 token system and how communities can operate independent COSIGO satellite networks issuing their own tokens — for example COSIGO_youruniquetokennamehere.
 https://stream.cosigo.io/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.omroepnet.nl/logo" group-title="streaming",XON
 https://live.omroepnet.nl/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://owncast.afterswim.org/logo" group-title="tv",[after swim]
+https://owncast.afterswim.org/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo" group-title="Video Games",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
@@ -143,9 +152,6 @@ https://grow.dwot.io/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.mnrails.com/logo" group-title="Uncategorized",Caribou Streaming Server
 https://media.mnrails.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.ragtime.be/logo" group-title="Uncategorized",LIVE
-https://live.ragtime.be/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.nitetime.net/logo" group-title="Uncategorized",nitetime.net
 https://live.nitetime.net/hls/stream.m3u8
