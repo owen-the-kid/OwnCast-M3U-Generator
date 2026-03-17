@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://wf.newscentral.ng:9080/logo",News Central Television Live Stream
+http://wf.newscentral.ng:9080/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://intergalactic.fm/sites/default/files/styles/thumbnail/public/2023-07/MTV.logo_.no_.tx_.png",IFM - MurderCapital TV
+https://intergalactic.tv/live/smil:mtv.smil/playlist.m3u8

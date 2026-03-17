@@ -51,14 +51,14 @@ https://tv.radio90.fm/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://livestream.rasat.tv/logo",Radio-Satisfaction.de *Livestream*
 https://livestream.rasat.tv/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://stream.cosigo.io/logo",Welcome to the COSIGO™ live stream. Discussion of the silver-backed ERC-20 token system and how communities can operate independent COSIGO satellite networks issuing their own tokens — for example COSIGO_youruniquetokennamehere.
+https://stream.cosigo.io/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://tuxsa.net/logo",TUXSA TV
 https://tuxsa.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://weinstream.de/logo",Keltern Live Streaming
 https://weinstream.de/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://stream.cosigo.io/logo",Welcome to the COSIGO™ live stream. Discussion of the silver-backed ERC-20 token system and how communities can operate independent COSIGO satellite networks issuing their own tokens — for example COSIGO_youruniquetokennamehere.
-https://stream.cosigo.io/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://admin.mcoctv.us/logo",Manhattan Church TV
 https://admin.mcoctv.us/hls/stream.m3u8
