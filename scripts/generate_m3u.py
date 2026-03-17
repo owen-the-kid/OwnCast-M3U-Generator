@@ -1,10 +1,24 @@
 """
 generate_m3u.py
-Downloads the Owncast directory IPTV playlist, resolves logo URLs so they
-display correctly in VLC, and writes:
+Downloads the Owncast directory IPTV playlist, merges in any custom channels
+from custom_channels.json, resolves logo URLs so they display correctly in
+VLC, and writes:
 
-  owncast.m3u              - full playlist (every channel)
-  categories/<tag>.m3u     - one playlist per tag/category
+  owncast.m3u              - full playlist (every channel, grouped by category)
+  categories/<tag>.m3u     - one playlist per tag/category (min. 2 channels)
+
+Custom channels are defined in custom_channels.json at the repo root:
+
+  [
+    {
+      "name": "My Channel",
+      "url":  "https://example.com/stream.m3u8",
+      "logo": "https://example.com/logo.png",
+      "tags": ["news", "english"]
+    }
+  ]
+
+All fields except "name" and "url" are optional.
 
 Requirements:
     pip install requests
@@ -13,6 +27,7 @@ Usage:
     python generate_m3u.py
 """
 
+import json
 import logging
 import re
 import sys
@@ -22,12 +37,13 @@ from urllib.parse import urlparse
 
 import requests
 
-DIRECTORY_IPTV_URL = "https://directory.owncast.online/api/iptv"
-OUTPUT_FILE        = Path("owncast.m3u")
-CATEGORIES_DIR     = Path("categories")
-IMAGE_EXTENSIONS   = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg"}
-TVG_LOGO_RE        = re.compile(r'tvg-logo=["\']([^"\']*)["\']', re.IGNORECASE)
-TVG_TAGS_RE        = re.compile(r'tvg-tags=["\']([^"\']*)["\']', re.IGNORECASE)
+DIRECTORY_IPTV_URL   = "https://directory.owncast.online/api/iptv"
+OUTPUT_FILE          = Path("owncast.m3u")
+CATEGORIES_DIR       = Path("categories")
+CUSTOM_CHANNELS_FILE = Path("custom_channels.json")
+IMAGE_EXTENSIONS     = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg"}
+TVG_LOGO_RE          = re.compile(r'tvg-logo=["\']([^"\']*)["\']', re.IGNORECASE)
+TVG_TAGS_RE          = re.compile(r'tvg-tags=["\']([^"\']*)["\']', re.IGNORECASE)
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 log = logging.getLogger(__name__)
@@ -45,7 +61,7 @@ def fetch_playlist() -> str:
 
 
 # ---------------------------------------------------------------------------
-# Parse
+# Parse Owncast M3U
 # ---------------------------------------------------------------------------
 
 def parse_entries(raw: str) -> list:
@@ -74,7 +90,7 @@ def parse_entries(raw: str) -> list:
             logo       = logo_match.group(1).strip() if logo_match else ""
             tags_match = TVG_TAGS_RE.search(attr_line)
             tags       = [t.strip() for t in tags_match.group(1).split(",")] if tags_match else []
-            tags       = [t for t in tags if t]  # drop empty strings
+            tags       = [t for t in tags if t]
             if url_line.startswith("http"):
                 entries.append({"name": name, "logo": logo, "tags": tags, "url": url_line})
             i += 3
@@ -98,6 +114,52 @@ def parse_entries(raw: str) -> list:
         i += 1
 
     return entries
+
+
+# ---------------------------------------------------------------------------
+# Load custom channels
+# ---------------------------------------------------------------------------
+
+def load_custom_channels() -> list:
+    """
+    Load channels from custom_channels.json if it exists.
+
+    Expected format:
+        [
+          {
+            "name": "My Channel",           (required)
+            "url":  "https://...",           (required)
+            "logo": "https://...",           (optional)
+            "tags": ["news", "english"]      (optional)
+          }
+        ]
+    """
+    if not CUSTOM_CHANNELS_FILE.exists():
+        log.info("No %s found, skipping custom channels", CUSTOM_CHANNELS_FILE)
+        return []
+
+    try:
+        data = json.loads(CUSTOM_CHANNELS_FILE.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError) as exc:
+        log.warning("Could not read %s: %s — skipping custom channels", CUSTOM_CHANNELS_FILE, exc)
+        return []
+
+    channels = []
+    for item in data:
+        name = item.get("name", "").strip()
+        url  = item.get("url",  "").strip()
+        if not name or not url:
+            log.warning("Skipping custom channel missing name or url: %s", item)
+            continue
+        channels.append({
+            "name": name,
+            "url":  url,
+            "logo": item.get("logo", "").strip(),
+            "tags": [t.strip() for t in item.get("tags", []) if str(t).strip()],
+        })
+
+    log.info("Loaded %d custom channel(s) from %s", len(channels), CUSTOM_CHANNELS_FILE)
+    return channels
 
 
 # ---------------------------------------------------------------------------
@@ -136,16 +198,12 @@ def resolve_all_logos(entries: list) -> dict:
 # ---------------------------------------------------------------------------
 
 def build_m3u(entries: list, logo_map: dict, include_groups: bool = False) -> str:
-    """Build a clean M3U string from a list of entries.
-
-    If include_groups is True, a group-title attribute is added to each entry
-    so players like VLC and Kodi can browse channels by category.
-    """
+    """Build a clean M3U string from a list of entries."""
     lines = ["#EXTM3U", ""]
     for entry in entries:
-        logo       = logo_map.get(entry["logo"], entry["logo"])
-        group      = entry["tags"][0] if entry["tags"] else "Uncategorized"
-        attrs      = ""
+        logo  = logo_map.get(entry["logo"], entry["logo"])
+        group = entry["tags"][0] if entry["tags"] else "Uncategorized"
+        attrs = ""
         if logo:
             attrs += f' tvg-logo="{logo}"'
         if include_groups:
@@ -172,19 +230,13 @@ def save(content: str, path: Path) -> None:
 # ---------------------------------------------------------------------------
 
 def safe_filename(tag: str) -> str:
-    """Convert a tag string into a safe filename."""
     name = tag.lower().strip()
-    name = re.sub(r"[^\w\s-]", "", name)   # remove special chars
-    name = re.sub(r"[\s]+", "-", name)      # spaces to hyphens
+    name = re.sub(r"[^\w\s-]", "", name)
+    name = re.sub(r"[\s]+", "-", name)
     return name or "uncategorized"
 
 
 def group_by_tag(entries: list) -> dict:
-    """
-    Return a dict mapping tag → [entries].
-    Entries with no tags go into 'uncategorized'.
-    An entry can appear in multiple categories if it has multiple tags.
-    """
     groups = {}
     for entry in entries:
         tags = entry["tags"] if entry["tags"] else ["uncategorized"]
@@ -209,11 +261,16 @@ def main():
         sys.exit(1)
 
     entries = parse_entries(raw)
-    log.info("Parsed %d channels", len(entries))
+    log.info("Parsed %d Owncast channels", len(entries))
+
+    custom = load_custom_channels()
+    entries = entries + custom
+    if custom:
+        log.info("Total channels after merge: %d", len(entries))
 
     logo_map = resolve_all_logos(entries)
 
-    # --- Main playlist (sorted by category, with group-title for player browsing) ---
+    # --- Main playlist (sorted by category, with group-title) ---
     grouped_entries = sorted(
         entries,
         key=lambda e: (e["tags"][0].lower() if e["tags"] else "zzz", e["name"].lower())
@@ -221,13 +278,12 @@ def main():
     save(build_m3u(grouped_entries, logo_map, include_groups=True), OUTPUT_FILE)
 
     # --- Per-category playlists ---
-    groups = group_by_tag(entries)
-    skipped = [tag for tag, tag_entries in groups.items() if len(tag_entries) < 2]
-    groups  = {tag: tag_entries for tag, tag_entries in groups.items() if len(tag_entries) >= 2}
+    groups  = group_by_tag(entries)
+    skipped = [tag for tag, es in groups.items() if len(es) < 2]
+    groups  = {tag: es for tag, es in groups.items() if len(es) >= 2}
     log.info("Generating %d category playlists (%d skipped, only 1 channel)...", len(groups), len(skipped))
     for tag, tag_entries in sorted(groups.items()):
-        filename = safe_filename(tag) + ".m3u"
-        save(build_m3u(tag_entries, logo_map), CATEGORIES_DIR / filename)
+        save(build_m3u(tag_entries, logo_map), CATEGORIES_DIR / (safe_filename(tag) + ".m3u"))
 
     log.info("Done. %d categories written to %s/", len(groups), CATEGORIES_DIR)
 
