@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Omroep Brabant",
+    "url":  "https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Omroep_Brabant_logo.svg/250px-Omroep_Brabant_logo.svg.png",
+    "tags": ["regional", "dutch", "news"]
+  },
+  {
+    "name": "IFM - CBS TV",
+    "url":  "https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8",
+    "logo": "https://intergalactic.fm/themes/custom/ifm/logo.svg",
+    "tags": ["music"]
+  },
+  {
+    "name": "IFM - MurderCapital TV",
+    "url":  "https://intergalactic.tv/live/smil:mtv.smil/playlist.m3u8",
+    "logo": "https://intergalactic.fm/sites/default/files/styles/thumbnail/public/2023-07/MTV.logo_.no_.tx_.png",
+    "tags": ["entertainment"]
+  }
+]
