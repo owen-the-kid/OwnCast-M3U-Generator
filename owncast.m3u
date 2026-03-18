@@ -6,6 +6,9 @@ http://x1co.com.br:8080/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://live.iolambc.com/logo" group-title="church",Live.IolaMBC.com
 http://live.iolambc.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvrestaurandovidas.ovalcast.com/logo" group-title="church",Radio y TV Restaurando Vidas
+https://tvrestaurandovidas.ovalcast.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://intergalactic.fm/sites/default/files/styles/thumbnail/public/2023-07/MTV.logo_.no_.tx_.png" group-title="entertainment",IFM - MurderCapital TV
 https://intergalactic.tv/live/smil:mtv.smil/playlist.m3u8
 
@@ -54,9 +57,6 @@ https://stream.unusualart.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://mthrbord.tv/logo" group-title="Music",V O I D
 https://mthrbord.tv/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.nilustv.com/logo" group-title="nilustv",NilusTV
-https://tv.nilustv.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://31u.duckdns.org/logo" group-title="owncast",32U
 https://31u.duckdns.org/hls/stream.m3u8
 
@@ -65,9 +65,6 @@ https://33u.duckdns.org/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://cartooncartoons.thatsoretro.com/logo" group-title="owncast",Cartoon Cartoons Network
 https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://owncast.eom.dev/logo" group-title="owncast",Owncast
-https://owncast.eom.dev/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://watch.owncast.online/logo" group-title="owncast",Owncast TV
 https://watch.owncast.online/hls/stream.m3u8
@@ -99,9 +96,6 @@ https://leighton.prcht.host/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://admin.mcoctv.us/logo" group-title="streaming",Manhattan Church TV
 https://admin.mcoctv.us/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.mediagoober.com/logo" group-title="streaming",MediaGoober
-https://tv.mediagoober.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://stream.nagafm.in/logo" group-title="streaming",Naga FM Live Stream
 https://stream.nagafm.in/hls/stream.m3u8
 
@@ -123,7 +117,7 @@ https://live.retrostrange.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://sashacam.sashanet.net/logo" group-title="streaming",SashaCam - hungry outside cats
 https://sashacam.sashanet.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.sullyunicorn.com/logo" group-title="streaming",SullyUnicorn Stream Test
+#EXTINF:-1 tvg-logo="https://live.sullyunicorn.com/logo" group-title="streaming",SullyUnicorn
 https://live.sullyunicorn.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tavlive.com/logo" group-title="streaming",TAV Network
@@ -147,20 +141,8 @@ https://live.omroepnet.nl/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://owncast.afterswim.org/logo" group-title="tv",[after swim]
 https://owncast.afterswim.org/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.klay.moe/logo" group-title="Video Games",Cache's Corner
-https://stream.klay.moe/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.fraxoweb.com/logo" group-title="Video Games",Frank Ring
-https://live.fraxoweb.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.sprnva.com/logo" group-title="Video Games",SPRNVA | RoboRev
-https://tv.sprnva.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo" group-title="Video Games",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://owncast.zalasur.media/logo" group-title="Video Games",Zalasur Media Live Streaming
-https://owncast.zalasur.media/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://weather.tabelect.com/logo" group-title="weather",Glendive Weathercam
 https://weather.tabelect.com/hls/stream.m3u8
