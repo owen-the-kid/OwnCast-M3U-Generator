@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://live.fraxoweb.com/logo",Frank Ring
+https://live.fraxoweb.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://owncast.zalasur.media/logo",Zalasur Media Live Streaming
+https://owncast.zalasur.media/hls/stream.m3u8
