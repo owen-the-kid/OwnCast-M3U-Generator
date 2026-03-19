@@ -9,6 +9,9 @@ http://live.iolambc.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tvrestaurandovidas.ovalcast.com/logo" group-title="church",Radio y TV Restaurando Vidas
 https://tvrestaurandovidas.ovalcast.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://movies.ctbperth.net.au/logo" group-title="community",Movies 24/7 on CTB
+https://movies.ctbperth.net.au/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://intergalactic.fm/sites/default/files/styles/thumbnail/public/2023-07/MTV.logo_.no_.tx_.png" group-title="entertainment",IFM - MurderCapital TV
 https://intergalactic.tv/live/smil:mtv.smil/playlist.m3u8
 
@@ -57,6 +60,9 @@ https://stream.unusualart.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://mthrbord.tv/logo" group-title="Music",V O I D
 https://mthrbord.tv/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://tv.nilustv.com/logo" group-title="nilustv",NilusTV
+https://tv.nilustv.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://31u.duckdns.org/logo" group-title="owncast",32U
 https://31u.duckdns.org/hls/stream.m3u8
 
@@ -96,6 +102,9 @@ https://leighton.prcht.host/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://admin.mcoctv.us/logo" group-title="streaming",Manhattan Church TV
 https://admin.mcoctv.us/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://tv.mediagoober.com/logo" group-title="streaming",MediaGoober
+https://tv.mediagoober.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://stream.nagafm.in/logo" group-title="streaming",Naga FM Live Stream
 https://stream.nagafm.in/hls/stream.m3u8
 
@@ -117,6 +126,9 @@ https://live.retrostrange.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://sashacam.sashanet.net/logo" group-title="streaming",SashaCam - hungry outside cats
 https://sashacam.sashanet.net/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://stream.starlifter.tv/logo" group-title="streaming",Starlifter TV
+https://stream.starlifter.tv/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://live.sullyunicorn.com/logo" group-title="streaming",SullyUnicorn
 https://live.sullyunicorn.com/hls/stream.m3u8
 
@@ -132,6 +144,9 @@ https://theupperleft.thesprawl.online/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tuxsa.net/logo" group-title="streaming",TUXSA TV
 https://tuxsa.net/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://tv.lrnz.it/logo" group-title="streaming",TV.LRNZ.IT
+https://tv.lrnz.it/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://stream.cosigo.io/logo" group-title="streaming",Welcome to the COSIGO™ live stream. Discussion of the silver-backed ERC-20 token system and how communities can operate independent COSIGO satellite networks issuing their own tokens — for example COSIGO_youruniquetokennamehere.
 https://stream.cosigo.io/hls/stream.m3u8
 
@@ -140,6 +155,18 @@ https://live.omroepnet.nl/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://owncast.afterswim.org/logo" group-title="tv",[after swim]
 https://owncast.afterswim.org/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://dingusmacdongle.live/logo" group-title="Video Games",DingusMacDongle's Streaming Server
+https://dingusmacdongle.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.fraxoweb.com/logo" group-title="Video Games",Frank Ring
+https://live.fraxoweb.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://stream.lamer-ethos.site/logo" group-title="Video Games",holo | cast
+https://stream.lamer-ethos.site/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://owncast.scrubbles.tech/logo" group-title="Video Games",Scrubble's Owncast Server
+https://owncast.scrubbles.tech/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo" group-title="Video Games",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
@@ -158,9 +185,6 @@ https://jaradio.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.nitetime.net/logo" group-title="Uncategorized",nitetime.net
 https://live.nitetime.net/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://myliveisoc.live/logo" group-title="Uncategorized",NYC isoc LIVE FREE
-https://myliveisoc.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://radio67tv.tvabierta.net/logo" group-title="Uncategorized",RADIO67TV
 https://radio67tv.tvabierta.net/hls/stream.m3u8
