@@ -9,20 +9,17 @@ https://myddptv.site/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://myliveisoc.live/logo",NYC isoc LIVE FREE
 https://myliveisoc.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.nitetime.net/logo",nitetime.net
-https://live.nitetime.net/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://grow.dwot.io/logo",Cannabis Grow Stream 24/7 | dwotTV
 https://grow.dwot.io/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://owncast3.zuidwest.cloud/logo",Rucphen RTV
-https://owncast3.zuidwest.cloud/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://jaradio.live/logo",JaRadio TV
-https://jaradio.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.mnrails.com/logo",Caribou Streaming Server
 https://media.mnrails.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://live.nitetime.net/logo",nitetime.net
+https://live.nitetime.net/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://vault.waxmuseumradio.net/logo",Wax Museum Radio
 https://vault.waxmuseumradio.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://jaradio.live/logo",JaRadio TV
+https://jaradio.live/hls/stream.m3u8
