@@ -3,5 +3,5 @@
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://pl.retrospection.%E3%81%BF%E3%82%93%E3%81%AA/logo",Shak's Retro Spot
-https://pl.retrospection.%E3%81%BF%E3%82%93%E3%81%AA/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://watch.mameau.com/logo",mameau
+https://watch.mameau.com/hls/stream.m3u8
