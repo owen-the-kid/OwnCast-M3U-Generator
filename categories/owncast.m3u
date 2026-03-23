@@ -6,20 +6,11 @@ https://silo.ffmuc.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tv.theindiebeat.fm/logo",The Indie Beat Television
 https://tv.theindiebeat.fm/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.firesidefedi.live/logo",Fireside Fedi Livestream
-https://stream.firesidefedi.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.lrnz.it/logo",TV.LRNZ.IT
-https://tv.lrnz.it/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://tv.kenobisboch.it/logo",Kenobisboch
 https://tv.kenobisboch.it/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://watch.owncast.online/logo",Owncast TV
 https://watch.owncast.online/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://khyretos.kreative-kompas.com/logo",Khyretos
-https://khyretos.kreative-kompas.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.24hrkpop.com/logo",24hr kpop TV Broadcast
 https://live.24hrkpop.com/hls/stream.m3u8
@@ -30,35 +21,29 @@ https://tv.mediagoober.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://cartooncartoons.thatsoretro.com/logo",Cartoon Cartoons Network
 https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.expiredpopsicle.com/logo",Kiri Artemis [VTuber/Gamedev/Artist]
-https://live.expiredpopsicle.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.fraxoweb.com/logo",Frank Ring
-https://live.fraxoweb.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://mthrbord.tv/logo",V O I D
-https://mthrbord.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://tavlive.com/logo",TAV Network
+https://tavlive.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://video.lpam.be/logo",Radio Benelux Streaming
 https://video.lpam.be/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://cast.otternet.ca/logo",Ottercast
-https://cast.otternet.ca/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://tavlive.com/logo",TAV Network
-https://tavlive.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://livestream.elbethelpbc.com/logo",EBPB Live Stream
-https://livestream.elbethelpbc.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://theupperleft.thesprawl.online/logo",TheUpperLeft
-https://theupperleft.thesprawl.online/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://mthrbord.tv/logo",V O I D
+https://mthrbord.tv/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.radio90.fm/logo",Radio90 TV
 https://tv.radio90.fm/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://event.rasat.tv/logo",RS Event 24/7 Event.Rasat.TV
-https://event.rasat.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://livestream.elbethelpbc.com/logo",EBPB Live Stream
+https://livestream.elbethelpbc.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://stream.illustietor.com/logo",illuSTREAMS
+https://stream.illustietor.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://theupperleft.thesprawl.online/logo",TheUpperLeft
+https://theupperleft.thesprawl.online/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://stream.cosigo.io/logo",Welcome to the COSIGO™ live stream. Discussion of the silver-backed ERC-20 token system and how communities can operate independent COSIGO satellite networks issuing their own tokens — for example COSIGO_youruniquetokennamehere.
+https://stream.cosigo.io/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tuxsa.net/logo",TUXSA TV
 https://tuxsa.net/hls/stream.m3u8
@@ -72,11 +57,14 @@ https://livestream.rasat.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://weinstream.de/logo",Keltern Live Streaming
 https://weinstream.de/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://sashacam.sashanet.net/logo",SashaCam - hungry outside cats
-https://sashacam.sashanet.net/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://admin.mcoctv.us/logo",Manhattan Church TV
 https://admin.mcoctv.us/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.theroseburgreceiver.com/logo",The Roseburg Receiver Live Stream
 https://live.theroseburgreceiver.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://sashacam.sashanet.net/logo",SashaCam - hungry outside cats
+https://sashacam.sashanet.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://event.rasat.tv/logo",RS Event 24/7 Event.Rasat.TV
+https://event.rasat.tv/hls/stream.m3u8
