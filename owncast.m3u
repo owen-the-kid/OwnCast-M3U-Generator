@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="http://x1co.com.br:8080/logo" group-title="24/7",NickOnline
 http://x1co.com.br:8080/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://live.verniy.tv/logo" group-title="anime",Verniy TV
+https://live.verniy.tv/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvrestaurandovidas.ovalcast.com/logo" group-title="church",Radio y TV Restaurando Vidas
 https://tvrestaurandovidas.ovalcast.com/hls/stream.m3u8
 
@@ -12,14 +15,8 @@ https://movies.ctbperth.net.au/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://intergalactic.fm/sites/default/files/styles/thumbnail/public/2023-07/MTV.logo_.no_.tx_.png" group-title="entertainment",IFM - MurderCapital TV
 https://intergalactic.tv/live/smil:mtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.hurjala.fi/logo" group-title="hurjala.fi",Hurjala Live
-https://live.hurjala.fi/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://wochenschautv.com/logo" group-title="movies",Wochenschau TV
 https://wochenschautv.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://stream.djdarren.site/logo" group-title="Music",#ThePlaylist
-https://stream.djdarren.site/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://watch.chiptune.fm/logo" group-title="Music",24/7 Chiptune Radio
 https://watch.chiptune.fm/hls/stream.m3u8
@@ -87,8 +84,14 @@ https://myddptv.xyz/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://livestream.elbethelpbc.com/logo" group-title="streaming",EBPB Live Stream
 https://livestream.elbethelpbc.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://silo.ffmuc.net/logo" group-title="streaming",Freifunk München - Weather Stream
+https://silo.ffmuc.net/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://stream.illustietor.com/logo" group-title="streaming",illuSTREAMS
 https://stream.illustietor.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.jenniegyllblad.com/logo" group-title="streaming",Jen's Studio
+https://live.jenniegyllblad.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://weinstream.de/logo" group-title="streaming",Keltern Live Streaming
 https://weinstream.de/hls/stream.m3u8
@@ -149,9 +152,6 @@ https://stream.cosigo.io/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.omroepnet.nl/logo" group-title="streaming",XON
 https://live.omroepnet.nl/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.moonbunny.cafe/logo" group-title="Tech",Moonbunny Cafe
-https://live.moonbunny.cafe/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://stream.raidowl.com/logo" group-title="Tech",Raid Owl Owncast
 https://stream.raidowl.com/hls/stream.m3u8

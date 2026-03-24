@@ -1,10 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://live.rokjok.fm/logo",RokJok.FM
+http://live.rokjok.fm/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://livestream.rasat.tv/logo",Radio-Satisfaction.de *Livestream*
 https://livestream.rasat.tv/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://stream.flash-radio.de/logo",Flash-Radio e.V.
 https://stream.flash-radio.de/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="http://live.rokjok.fm/logo",RokJok.FM
-http://live.rokjok.fm/hls/stream.m3u8
