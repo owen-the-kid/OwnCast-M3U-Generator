@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo="https://live.omroepnet.nl/logo",XON
 https://live.omroepnet.nl/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://videostream.reality-sound.de/logo",Reality-Sound Videostream
-https://videostream.reality-sound.de/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://weinstream.de/logo",Keltern Live Streaming
 https://weinstream.de/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://videostream.reality-sound.de/logo",Reality-Sound Videostream
+https://videostream.reality-sound.de/hls/stream.m3u8
