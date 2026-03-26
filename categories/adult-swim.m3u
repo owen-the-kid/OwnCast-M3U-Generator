@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cartooncartoons.thatsoretro.com/logo",Cartoon Cartoons Network
-https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.verniy.tv/logo",Verniy TV
 https://live.verniy.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://cartooncartoons.thatsoretro.com/logo",Cartoon Cartoons Network
+https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
