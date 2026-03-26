@@ -33,6 +33,12 @@ https://stream.flash-radio.de/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://intergalactic.fm/themes/custom/ifm/logo.svg" group-title="music",IFM - CBS TV
 https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://stream.lalalatvchannel.com/logo" group-title="Music",lalala tv
+https://stream.lalalatvchannel.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.neko-network.net/logo" group-title="Music",Neko-Network Live Platform
+https://live.neko-network.net/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://video.lpam.be/logo" group-title="Music",Radio Benelux Streaming
 https://video.lpam.be/hls/stream.m3u8
 
@@ -50,9 +56,6 @@ https://stream.unusualart.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://mthrbord.tv/logo" group-title="Music",V O I D
 https://mthrbord.tv/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.nilustv.com/logo" group-title="nilustv",NilusTV
-https://tv.nilustv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://cartooncartoons.thatsoretro.com/logo" group-title="owncast",Cartoon Cartoons Network
 https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
@@ -84,11 +87,17 @@ https://livestream.elbethelpbc.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://silo.ffmuc.net/logo" group-title="streaming",Freifunk München - Weather Stream
 https://silo.ffmuc.net/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://stream.illustietor.com/logo" group-title="streaming",illuSTREAMS
+https://stream.illustietor.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://weinstream.de/logo" group-title="streaming",Keltern Live Streaming
 https://weinstream.de/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.kenobisboch.it/logo" group-title="streaming",Kenobisboch
 https://tv.kenobisboch.it/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://khyretos.kreative-kompas.com/logo" group-title="streaming",Khyretos
+https://khyretos.kreative-kompas.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://admin.mcoctv.us/logo" group-title="streaming",Manhattan Church TV
 https://admin.mcoctv.us/hls/stream.m3u8
@@ -144,23 +153,17 @@ https://stream.raidowl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://owncast.afterswim.org/logo" group-title="tv",[after swim]
 https://owncast.afterswim.org/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.klay.moe/logo" group-title="Video Games",Cache's Corner
-https://stream.klay.moe/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.fraxoweb.com/logo" group-title="Video Games",Frank Ring
-https://live.fraxoweb.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo" group-title="Video Games",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.mnrails.com/logo" group-title="Uncategorized",Caribou Streaming Server
 https://media.mnrails.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://myddptv.site/logo" group-title="Uncategorized",CHAC CHAPTER TEACHING NETWORK
-https://myddptv.site/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://jaradio.live/logo" group-title="Uncategorized",JaRadio TV
 https://jaradio.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.ragtime.be/logo" group-title="Uncategorized",LIVE
+https://live.ragtime.be/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.nitetime.net/logo" group-title="Uncategorized",nitetime.net
 https://live.nitetime.net/hls/stream.m3u8
@@ -182,6 +185,3 @@ https://swimrewind.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://vault.waxmuseumradio.net/logo" group-title="Uncategorized",Wax Museum Radio
 https://vault.waxmuseumradio.net/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.mj00.top/logo" group-title="Uncategorized",鸭鸭电视台
-https://tv.mj00.top/hls/stream.m3u8

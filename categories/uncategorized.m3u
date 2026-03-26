@@ -1,34 +1,31 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://jaradio.live/logo",JaRadio TV
+https://jaradio.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.ragtime.be/logo",LIVE
+https://live.ragtime.be/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://swimrewind.com/logo",Swim Rewind
 https://swimrewind.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://myliveisoc.live/logo",NYC isoc LIVE FREE
 https://myliveisoc.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://myddptv.site/logo",CHAC CHAPTER TEACHING NETWORK
-https://myddptv.site/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://jaradio.live/logo",JaRadio TV
-https://jaradio.live/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://radio67tv.tvabierta.net/logo",RADIO67TV
 https://radio67tv.tvabierta.net/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.mnrails.com/logo",Caribou Streaming Server
-https://media.mnrails.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.azeemhussein.com/logo",Stream of Konsciousness
-https://live.azeemhussein.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://owncast3.zuidwest.cloud/logo",Rucphen RTV
-https://owncast3.zuidwest.cloud/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.nitetime.net/logo",nitetime.net
 https://live.nitetime.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.mj00.top/logo",鸭鸭电视台
-https://tv.mj00.top/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://live.azeemhussein.com/logo",Stream of Konsciousness
+https://live.azeemhussein.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.mnrails.com/logo",Caribou Streaming Server
+https://media.mnrails.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://owncast3.zuidwest.cloud/logo",Rucphen RTV
+https://owncast3.zuidwest.cloud/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://vault.waxmuseumradio.net/logo",Wax Museum Radio
 https://vault.waxmuseumradio.net/hls/stream.m3u8

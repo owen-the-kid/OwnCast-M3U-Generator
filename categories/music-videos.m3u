@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://tv.theindiebeat.fm/logo",The Indie Beat Television
+https://tv.theindiebeat.fm/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.neko-network.net/logo",Neko-Network Live Platform
+https://live.neko-network.net/hls/stream.m3u8
