@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://webtv.espaces.media/logo",Espaces TV
+https://webtv.espaces.media/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://mystream.panafricanssi.org/logo",PANAfricanSSI  Live Stream
+https://mystream.panafricanssi.org/hls/stream.m3u8

@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://webtv.espaces.media/logo",Espaces TV
+https://webtv.espaces.media/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://telebulbo.sinistraverso.org/logo",TELEBULBO
+https://telebulbo.sinistraverso.org/hls/stream.m3u8
