@@ -33,9 +33,6 @@ https://live.smittystream.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://intergalactic.fm/themes/custom/ifm/logo.svg" group-title="music",IFM - CBS TV
 https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.labr.online/logo" group-title="Music",LABR LIVE
-https://stream.labr.online/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://stream.lalalatvchannel.com/logo" group-title="Music",lalala tv
 https://stream.lalalatvchannel.com/hls/stream.m3u8
 
@@ -84,9 +81,6 @@ https://myddptv.xyz/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://livestream.elbethelpbc.com/logo" group-title="streaming",EBPB Live Stream
 https://livestream.elbethelpbc.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://webtv.espaces.media/logo" group-title="streaming",Espaces TV
-https://webtv.espaces.media/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://silo.ffmuc.net/logo" group-title="streaming",Freifunk München - Weather Stream
 https://silo.ffmuc.net/hls/stream.m3u8
 
@@ -105,6 +99,9 @@ https://stream.nagafm.in/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://wf.newscentral.ng:9080/logo" group-title="streaming",News Central Television Live Stream
 http://wf.newscentral.ng:9080/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://cast.otternet.ca/logo" group-title="streaming",Ottercast
+https://cast.otternet.ca/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://stream.radiohoogeveen.nl/logo" group-title="streaming",Owncast
 https://stream.radiohoogeveen.nl/hls/stream.m3u8
 
@@ -120,11 +117,20 @@ https://event.rasat.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://sashacam.sashanet.net/logo" group-title="streaming",SashaCam - hungry outside cats
 https://sashacam.sashanet.net/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://tavlive.com/logo" group-title="streaming",TAV Network
+https://tavlive.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://live.theroseburgreceiver.com/logo" group-title="streaming",The Roseburg Receiver Live Stream
 https://live.theroseburgreceiver.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://theupperleft.thesprawl.online/logo" group-title="streaming",TheUpperLeft
+https://theupperleft.thesprawl.online/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://tuxsa.net/logo" group-title="streaming",TUXSA TV
 https://tuxsa.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.lrnz.it/logo" group-title="streaming",TV.LRNZ.IT
+https://tv.lrnz.it/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://stream.cosigo.io/logo" group-title="streaming",Welcome to the COSIGO™ live stream. Discussion of the silver-backed ERC-20 token system and how communities can operate independent COSIGO satellite networks issuing their own tokens — for example COSIGO_youruniquetokennamehere.
 https://stream.cosigo.io/hls/stream.m3u8
@@ -134,6 +140,12 @@ https://live.omroepnet.nl/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://owncast.afterswim.org/logo" group-title="tv",[after swim]
 https://owncast.afterswim.org/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.fraxoweb.com/logo" group-title="Video Games",Frank Ring
+https://live.fraxoweb.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://stream.ozoned.net/logo" group-title="Video Games",ozoned Cast
+https://stream.ozoned.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo" group-title="Video Games",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
@@ -147,9 +159,6 @@ https://myddptv.site/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://jaradio.live/logo" group-title="Uncategorized",JaRadio TV
 https://jaradio.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.ragtime.be/logo" group-title="Uncategorized",LIVE
-https://live.ragtime.be/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.nitetime.net/logo" group-title="Uncategorized",nitetime.net
 https://live.nitetime.net/hls/stream.m3u8
 
@@ -158,9 +167,6 @@ https://myliveisoc.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://radio67tv.tvabierta.net/logo" group-title="Uncategorized",RADIO67TV
 https://radio67tv.tvabierta.net/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://owncast3.zuidwest.cloud/logo" group-title="Uncategorized",Rucphen RTV
-https://owncast3.zuidwest.cloud/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.azeemhussein.com/logo" group-title="Uncategorized",Stream of Konsciousness
 https://live.azeemhussein.com/hls/stream.m3u8

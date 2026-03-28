@@ -6,8 +6,8 @@ https://watch.chiptune.fm/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://watch.vapor.fm/logo",24/7 Vapor Funk Radio
 https://watch.vapor.fm/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://x1co.com.br:8443/logo",NickOnline
-https://x1co.com.br:8443/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://cartooncartoons.thatsoretro.com/logo",Cartoon Cartoons Network
 https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://x1co.com.br:8443/logo",NickOnline
+https://x1co.com.br:8443/hls/stream.m3u8
