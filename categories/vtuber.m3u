@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://live.expiredpopsicle.com/logo",Kiri Artemis [VTuber/Gamedev/Artist]
-https://live.expiredpopsicle.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://err.tabulatethemerits.com/logo",Err's Lair
+https://err.tabulatethemerits.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://lach.teacrumbs.com/logo",Lachesis Arkwight
 https://lach.teacrumbs.com/hls/stream.m3u8

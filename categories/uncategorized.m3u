@@ -12,11 +12,8 @@ https://myddptv.site/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://owncast3.zuidwest.cloud/logo",Rucphen RTV
 https://owncast3.zuidwest.cloud/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://jaradio.live/logo",JaRadio TV
-https://jaradio.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.azeemhussein.com/logo",Stream of Konsciousness
-https://live.azeemhussein.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://ong.mywmc.org/logo",智慧禅堂
+https://ong.mywmc.org/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.mnrails.com/logo",Caribou Streaming Server
 https://media.mnrails.com/hls/stream.m3u8

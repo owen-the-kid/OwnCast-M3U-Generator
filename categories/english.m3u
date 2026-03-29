@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://live.fraxoweb.com/logo",Frank Ring
-https://live.fraxoweb.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://khyretos.kreative-kompas.com/logo",Khyretos
+https://khyretos.kreative-kompas.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.avarisclari.place/logo",Avaris' Hangout Space
-https://live.avarisclari.place/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://owncast.zalasur.media/logo",Zalasur Media Live Streaming
+https://owncast.zalasur.media/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://lach.teacrumbs.com/logo",Lachesis Arkwight
+https://lach.teacrumbs.com/hls/stream.m3u8
