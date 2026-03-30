@@ -15,8 +15,8 @@ https://movies.ctbperth.net.au/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://intergalactic.fm/sites/default/files/styles/thumbnail/public/2023-07/MTV.logo_.no_.tx_.png" group-title="entertainment",IFM - MurderCapital TV
 https://intergalactic.tv/live/smil:mtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.literalgrill.com/logo" group-title="movies",Susan's Cinema Stash
-https://live.literalgrill.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://wochenschautv.com/logo" group-title="movies",Wochenschau TV
+https://wochenschautv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://watch.chiptune.fm/logo" group-title="Music",24/7 Chiptune Radio
 https://watch.chiptune.fm/hls/stream.m3u8
@@ -39,6 +39,9 @@ https://stream.flash-radio.de/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://intergalactic.fm/themes/custom/ifm/logo.svg" group-title="music",IFM - CBS TV
 https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://stream.lalalatvchannel.com/logo" group-title="Music",lalala tv
+https://stream.lalalatvchannel.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://live.neko-network.net/logo" group-title="Music",Neko-Network Live Platform
 https://live.neko-network.net/hls/stream.m3u8
 
@@ -51,14 +54,14 @@ http://live.rokjok.fm/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tv.theindiebeat.fm/logo" group-title="Music",The Indie Beat Television
 https://tv.theindiebeat.fm/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://stream.mxtthxw.art/logo" group-title="Music",The Kalimera Show!
+https://stream.mxtthxw.art/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://stream.unusualart.net/logo" group-title="Music",Unusual Art
 https://stream.unusualart.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://mthrbord.tv/logo" group-title="Music",V O I D
 https://mthrbord.tv/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.nilustv.com/logo" group-title="nilustv",NilusTV
-https://tv.nilustv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://watch.owncast.online/logo" group-title="owncast",Owncast TV
 https://watch.owncast.online/hls/stream.m3u8
@@ -83,6 +86,9 @@ https://myddptv.xyz/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.donutz4dollarz.com/logo" group-title="streaming",Donutz4Dollarz Live!
 https://live.donutz4dollarz.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://webtv.espaces.media/logo" group-title="streaming",Espaces TV
+https://webtv.espaces.media/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://silo.ffmuc.net/logo" group-title="streaming",Freifunk München - Weather Stream
 https://silo.ffmuc.net/hls/stream.m3u8
@@ -144,8 +150,8 @@ https://stream.cosigo.io/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://live.omroepnet.nl/logo" group-title="streaming",XON
 https://live.omroepnet.nl/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.expiredpopsicle.com/logo" group-title="Tech",Kiri Artemis [VTuber/Gamedev/Artist]
-https://live.expiredpopsicle.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://printer.ebiverse.social/logo" group-title="Tech",3d Printer
+https://printer.ebiverse.social/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://owncast.afterswim.org/logo" group-title="tv",[after swim]
 https://owncast.afterswim.org/hls/stream.m3u8
