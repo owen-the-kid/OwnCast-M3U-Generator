@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://watch.chiptune.fm/logo",24/7 Chiptune Radio
-https://watch.chiptune.fm/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://watch.vapor.fm/logo",24/7 Vapor Funk Radio
 https://watch.vapor.fm/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://watch.chiptune.fm/logo",24/7 Chiptune Radio
+https://watch.chiptune.fm/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://x1co.com.br:8443/logo",NickOnline
 https://x1co.com.br:8443/hls/stream.m3u8

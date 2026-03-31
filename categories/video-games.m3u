@@ -3,8 +3,11 @@
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://khyretos.kreative-kompas.com/logo",Khyretos
-https://khyretos.kreative-kompas.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://stream.klay.moe/logo",Cache's Corner
+https://stream.klay.moe/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://owncast.zalasur.media/logo",Zalasur Media Live Streaming
-https://owncast.zalasur.media/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://live.jacen.moe/logo",Jacen Sekai Live
+https://live.jacen.moe/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://pl.retrospection.%E3%81%BF%E3%82%93%E3%81%AA/logo",Shak's Retro Spot
+https://pl.retrospection.%E3%81%BF%E3%82%93%E3%81%AA/hls/stream.m3u8
