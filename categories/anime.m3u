@@ -3,17 +3,8 @@
 #EXTINF:-1 tvg-logo="https://cartooncartoons.thatsoretro.com/logo",Toonami & Adult Swim Live
 https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.jacen.moe/logo",Jacen Sekai Live
-https://live.jacen.moe/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.verniy.tv/logo",Verniy TV
 https://live.verniy.tv/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.neko-network.net/logo",Neko-Network Live Platform
-https://live.neko-network.net/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://pl.retrospection.%E3%81%BF%E3%82%93%E3%81%AA/logo",Shak's Retro Spot
-https://pl.retrospection.%E3%81%BF%E3%82%93%E3%81%AA/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://owncast.afterswim.org/logo",[after swim]
 https://owncast.afterswim.org/hls/stream.m3u8
