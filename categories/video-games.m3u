@@ -3,5 +3,8 @@
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.gamers-pub.de/logo",GER Gamers-Pub Livestreams
-https://live.gamers-pub.de/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://live.jacen.moe/logo",Jacen Sekai Live
+https://live.jacen.moe/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.sprnva.com/logo",SPRNVA | RoboRev
+https://tv.sprnva.com/hls/stream.m3u8
