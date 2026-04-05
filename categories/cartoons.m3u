@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://x1co.com.br:8443/logo",NickOnline
-https://x1co.com.br:8443/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://cartooncartoons.thatsoretro.com/logo",Toonami & Adult Swim Live
 https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://x1co.com.br:8443/logo",NickOnline
+https://x1co.com.br:8443/hls/stream.m3u8
