@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://theupperleft.thesprawl.online/logo",TheUpperLeft
+https://theupperleft.thesprawl.online/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://loop.crixodia.com/logo",The Loop Radio
+https://loop.crixodia.com/hls/stream.m3u8
