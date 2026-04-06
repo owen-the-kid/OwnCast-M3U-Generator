@@ -6,20 +6,20 @@ https://watch.chiptune.fm/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://watch.vapor.fm/logo",24/7 Vapor Funk Radio
 https://watch.vapor.fm/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.flash-radio.de/logo",Flash-Radio e.V.
-https://stream.flash-radio.de/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.smittystream.com/logo",Christmas Court Radio
 https://live.smittystream.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://loop.crixodia.com/logo",The Loop Radio
+https://loop.crixodia.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://stream.flash-radio.de/logo",Flash-Radio e.V.
+https://stream.flash-radio.de/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://owncast.sicnal-stream.de/logo",[SIC]NAL
 https://owncast.sicnal-stream.de/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://video.lpam.be/logo",Radio Benelux Streaming
 https://video.lpam.be/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://loop.crixodia.com/logo",The Loop Radio
-https://loop.crixodia.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.rokjok.fm/logo",RokJok.FM
 http://live.rokjok.fm/hls/stream.m3u8
