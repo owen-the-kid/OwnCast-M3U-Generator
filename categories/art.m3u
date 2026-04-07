@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://tv.lrnz.it/logo",TV.LRNZ.IT
-https://tv.lrnz.it/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://live.jenniegyllblad.com/logo",Jen's Studio
+https://live.jenniegyllblad.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://owncast.sicnal-stream.de/logo",[SIC]NAL
 https://owncast.sicnal-stream.de/hls/stream.m3u8
