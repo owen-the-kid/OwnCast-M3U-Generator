@@ -3,11 +3,17 @@
 #EXTINF:-1 tvg-logo="https://stream.flash-radio.de/logo",Flash-Radio e.V.
 https://stream.flash-radio.de/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://livestream.rasat.tv/logo",Radio-Satisfaction.de *Livestream*
-https://livestream.rasat.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://djsparkz.co.uk/logo",DJ Sparkz | Live Drum & Bass Stream
+https://djsparkz.co.uk/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.rasat.tv/logo",RaSat Radio-Satisfaction *Promostream*
+https://live.rasat.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://owncast.sicnal-stream.de/logo",[SIC]NAL
+https://owncast.sicnal-stream.de/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.rokjok.fm/logo",RokJok.FM
 http://live.rokjok.fm/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://owncast.sicnal-stream.de/logo",[SIC]NAL
-https://owncast.sicnal-stream.de/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://livestream.rasat.tv/logo",Radio-Satisfaction.de *Livestream*
+https://livestream.rasat.tv/hls/stream.m3u8
