@@ -3,8 +3,11 @@
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.sprnva.com/logo",SPRNVA | RoboRev
-https://tv.sprnva.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://secret.draculo.net/logo",Draculo's Secret Castle
+https://secret.draculo.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fraxoweb.com/logo",Frank Ring
 https://live.fraxoweb.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://owncast.june.ie/logo",june's owncast!
+https://owncast.june.ie/hls/stream.m3u8
