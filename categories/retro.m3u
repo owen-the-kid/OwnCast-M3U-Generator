@@ -8,6 +8,3 @@ https://otcs.minuspoint.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://cartooncartoons.thatsoretro.com/logo",Toonami & Adult Swim Live
 https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://secret.draculo.net/logo",Draculo's Secret Castle
-https://secret.draculo.net/hls/stream.m3u8
