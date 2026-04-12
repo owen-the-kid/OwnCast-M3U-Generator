@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://secret.draculo.net/logo",Draculo's Secret Castle
-https://secret.draculo.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://err.tabulatethemerits.com/logo",Err's Lair
+https://err.tabulatethemerits.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.fraxoweb.com/logo",Frank Ring
-https://live.fraxoweb.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://lordg6.onjase.quebec/logo",La Nuit du Lord
+https://lordg6.onjase.quebec/hls/stream.m3u8
