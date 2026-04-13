@@ -9,20 +9,14 @@ https://live.verniy.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://live.iolambc.com/logo" group-title="church",Live.IolaMBC.com
 http://live.iolambc.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvrestaurandovidas.ovalcast.com/logo" group-title="church",Radio y TV Restaurando Vidas
-https://tvrestaurandovidas.ovalcast.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://movies.ctbperth.net.au/logo" group-title="community",Movies 24/7 on CTB
 https://movies.ctbperth.net.au/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://lach.teacrumbs.com/logo" group-title="english",Lachesis Arkwight
-https://lach.teacrumbs.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://intergalactic.fm/sites/default/files/styles/thumbnail/public/2023-07/MTV.logo_.no_.tx_.png" group-title="entertainment",IFM - MurderCapital TV
 https://intergalactic.tv/live/smil:mtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.literalgrill.com/logo" group-title="movies",Susan's Cinema Stash
-https://live.literalgrill.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://wochenschautv.com/logo" group-title="movies",Wochenschau TV
+https://wochenschautv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://watch.chiptune.fm/logo" group-title="Music",24/7 Chiptune Radio
 https://watch.chiptune.fm/hls/stream.m3u8
@@ -44,9 +38,6 @@ https://stream.flash-radio.de/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://intergalactic.fm/themes/custom/ifm/logo.svg" group-title="music",IFM - CBS TV
 https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://stream.labr.online/logo" group-title="Music",LABR LIVE
-https://stream.labr.online/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://server.partytown.tv/logo" group-title="Music",Partytown TV
 https://server.partytown.tv/hls/stream.m3u8
@@ -71,9 +62,6 @@ https://stream.unusualart.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://mthrbord.tv/logo" group-title="Music",V O I D
 https://mthrbord.tv/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://33u.duckdns.org/logo" group-title="owncast",33u
-https://33u.duckdns.org/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://watch.owncast.online/logo" group-title="owncast",Owncast TV
 https://watch.owncast.online/hls/stream.m3u8
