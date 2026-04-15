@@ -3,5 +3,11 @@
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://srxnet.xyz/logo",srxnet live
-https://srxnet.xyz/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://tv.sprnva.com/logo",SPRNVA | RoboRev
+https://tv.sprnva.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://stream.klay.moe/logo",Cache's Corner
+https://stream.klay.moe/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.fraxoweb.com/logo",Frank Ring
+https://live.fraxoweb.com/hls/stream.m3u8
