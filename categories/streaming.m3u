@@ -3,35 +3,26 @@
 #EXTINF:-1 tvg-logo="https://tv.theindiebeat.fm/logo",The Indie Beat Television
 https://tv.theindiebeat.fm/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.retrostrange.com/logo",RetroStrange TV
-https://live.retrostrange.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.lrnz.it/logo",TV.LRNZ.IT
-https://tv.lrnz.it/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="http://wf.newscentral.ng:9080/logo",News Central Television Live Stream
 http://wf.newscentral.ng:9080/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.omroepnet.nl/logo",XON
-https://live.omroepnet.nl/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://live.retrostrange.com/logo",RetroStrange TV
+https://live.retrostrange.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://owncast.neocraft1293.fr/logo",Neocraft1293
-https://owncast.neocraft1293.fr/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.sprnva.com/logo",SPRNVA | RoboRev
-https://tv.sprnva.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.mediagoober.com/logo",MediaGoober
-https://tv.mediagoober.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.24hrkpop.com/logo",24hr kpop TV Broadcast
-https://live.24hrkpop.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://myddptv.xyz/logo",DDPTV LIVE  DJ Stream 24.7
+https://myddptv.xyz/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://leighton.prcht.host/logo",Leighton Media Live
 https://leighton.prcht.host/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.klay.moe/logo",Cache's Corner
-https://stream.klay.moe/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://live.24hrkpop.com/logo",24hr kpop TV Broadcast
+https://live.24hrkpop.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://theupperleft.thesprawl.online/logo",TheUpperLeft
+https://theupperleft.thesprawl.online/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.mediagoober.com/logo",MediaGoober
+https://tv.mediagoober.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://mthrbord.tv/logo",V O I D
 https://mthrbord.tv/hls/stream.m3u8
@@ -39,32 +30,32 @@ https://mthrbord.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://stream.radiohoogeveen.nl/logo",Owncast
 https://stream.radiohoogeveen.nl/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://theupperleft.thesprawl.online/logo",TheUpperLeft
-https://theupperleft.thesprawl.online/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://cast.otternet.ca/logo",Ottercast
 https://cast.otternet.ca/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.fraxoweb.com/logo",Frank Ring
-https://live.fraxoweb.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.kenobisboch.it/logo",Kenobisboch
-https://tv.kenobisboch.it/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://stream.nagafm.in/logo",Naga FM Live Stream
 https://stream.nagafm.in/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://live.omroepnet.nl/logo",XON
+https://live.omroepnet.nl/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.kenobisboch.it/logo",Kenobisboch
+https://tv.kenobisboch.it/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://live.rokjok.fm/logo",RokJok.FM
+http://live.rokjok.fm/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://server.partytown.tv/logo",Partytown TV
 https://server.partytown.tv/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://sashacam.sashanet.net/logo",SashaCam - hungry outside cats
-https://sashacam.sashanet.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://owncast.sicnal-stream.de/logo",[SIC]NAL
 https://owncast.sicnal-stream.de/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://live.rokjok.fm/logo",RokJok.FM
-http://live.rokjok.fm/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://admin.mcoctv.us/logo",Manhattan Church TV
+https://admin.mcoctv.us/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.radio90.fm/logo",Radio90 TV
+https://tv.radio90.fm/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://livestream.cobrasoft.org/logo",Cobra Live Stream Server
 https://livestream.cobrasoft.org/hls/stream.m3u8
@@ -75,14 +66,8 @@ https://video.lpam.be/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://videostream.reality-sound.de/logo",Reality-Sound Videostream
 https://videostream.reality-sound.de/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.willowduster.com/logo",willowduster
-https://stream.willowduster.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.radio90.fm/logo",Radio90 TV
-https://tv.radio90.fm/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://myddptv.xyz/logo",DDPTV LIVE  DJ Stream 24.7
-https://myddptv.xyz/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://mywbai.us/logo",DDP LIVE WHCR.ORG
+https://mywbai.us/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tavlive.com/logo",TAV Network
 https://tavlive.com/hls/stream.m3u8
@@ -90,17 +75,11 @@ https://tavlive.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://livestream.rasat.tv/logo",Radio-Satisfaction.de *Livestream*
 https://livestream.rasat.tv/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://mywbai.us/logo",DDP LIVE WHCR.ORG
-https://mywbai.us/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://tuxsa.net/logo",TUXSA TV
-https://tuxsa.net/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://weinstream.de/logo",Keltern Live Streaming
 https://weinstream.de/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://admin.mcoctv.us/logo",Manhattan Church TV
-https://admin.mcoctv.us/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://tuxsa.net/logo",TUXSA TV
+https://tuxsa.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.theroseburgreceiver.com/logo",The Roseburg Receiver Live Stream
 https://live.theroseburgreceiver.com/hls/stream.m3u8
@@ -110,3 +89,6 @@ https://stream.cosigo.io/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live2.rasat.tv/logo",RaSatLOL Radio-Satisfaction #24/7 Event.Rasat.TV
 https://live2.rasat.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://sashacam.sashanet.net/logo",SashaCam - hungry outside cats
+https://sashacam.sashanet.net/hls/stream.m3u8
