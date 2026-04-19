@@ -3,11 +3,11 @@
 #EXTINF:-1 tvg-logo="https://x1co.com.br/logo" group-title="24/7",NickOnline
 https://x1co.com.br/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://live.verniy.tv/logo" group-title="anime",Verniy TV
+https://live.verniy.tv/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="http://live.iolambc.com/logo" group-title="church",Live.IolaMBC.com
 http://live.iolambc.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvrestaurandovidas.ovalcast.com/logo" group-title="church",Radio y TV Restaurando Vidas
-https://tvrestaurandovidas.ovalcast.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://movies.ctbperth.net.au/logo" group-title="community",Movies 24/7 on CTB
 https://movies.ctbperth.net.au/hls/stream.m3u8
@@ -18,8 +18,8 @@ https://djsparkz.co.uk/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://intergalactic.fm/sites/default/files/styles/thumbnail/public/2023-07/MTV.logo_.no_.tx_.png" group-title="entertainment",IFM - MurderCapital TV
 https://intergalactic.tv/live/smil:mtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://err.tabulatethemerits.com/logo" group-title="gaming",Err's Lair
-https://err.tabulatethemerits.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://wochenschautv.com/logo" group-title="movies",Wochenschau TV
+https://wochenschautv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://watch.chiptune.fm/logo" group-title="Music",24/7 Chiptune Radio
 https://watch.chiptune.fm/hls/stream.m3u8
@@ -41,6 +41,9 @@ https://stream.flash-radio.de/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://intergalactic.fm/themes/custom/ifm/logo.svg" group-title="music",IFM - CBS TV
 https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://stream.labr.online/logo" group-title="Music",LABR LIVE
+https://stream.labr.online/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://video.lpam.be/logo" group-title="Music",Radio Benelux Streaming
 https://video.lpam.be/hls/stream.m3u8
@@ -123,6 +126,9 @@ https://tv.radio90.fm/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://live2.rasat.tv/logo" group-title="streaming",RaSatLOL Radio-Satisfaction #24/7 Event.Rasat.TV
 https://live2.rasat.tv/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://video.radio-dragon-flame.com/logo" group-title="streaming",RDF Videostream
+https://video.radio-dragon-flame.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://videostream.reality-sound.de/logo" group-title="streaming",Reality-Sound Videostream
 https://videostream.reality-sound.de/hls/stream.m3u8
 
@@ -152,9 +158,6 @@ https://live.omroepnet.nl/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://afterswim.org/logo" group-title="tv",[after swim]
 https://afterswim.org/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://pl.retrospection.%E3%81%BF%E3%82%93%E3%81%AA/logo" group-title="Video Games",Shak's Retro Spot
-https://pl.retrospection.%E3%81%BF%E3%82%93%E3%81%AA/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo" group-title="Video Games",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
