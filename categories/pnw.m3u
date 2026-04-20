@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://live.theroseburgreceiver.com/logo",The Roseburg Receiver Live Stream
-https://live.theroseburgreceiver.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://theupperleft.thesprawl.online/logo",TheUpperLeft
 https://theupperleft.thesprawl.online/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.theroseburgreceiver.com/logo",The Roseburg Receiver Live Stream
+https://live.theroseburgreceiver.com/hls/stream.m3u8

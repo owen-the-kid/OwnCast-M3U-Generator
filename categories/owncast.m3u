@@ -3,38 +3,35 @@
 #EXTINF:-1 tvg-logo="https://tv.theindiebeat.fm/logo",The Indie Beat Television
 https://tv.theindiebeat.fm/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.labr.online/logo",LABR LIVE
-https://stream.labr.online/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://video.radio-dragon-flame.com/logo",RDF Videostream
-https://video.radio-dragon-flame.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.kenobisboch.it/logo",Kenobisboch
-https://tv.kenobisboch.it/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://tv.jkl.hacklab.fi/logo",Hacklab Jyväskylä
 https://tv.jkl.hacklab.fi/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.mediagoober.com/logo",MediaGoober
-https://tv.mediagoober.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://secret.draculo.net/logo",Draculo's Secret Castle
+https://secret.draculo.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://watch.owncast.online/logo",Owncast TV
 https://watch.owncast.online/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://cartooncartoons.thatsoretro.com/logo",Toonami & Adult Swim Live
-https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://tv.mediagoober.com/logo",MediaGoober
+https://tv.mediagoober.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.24hrkpop.com/logo",24hr kpop TV Broadcast
 https://live.24hrkpop.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://mthrbord.tv/logo",V O I D
-https://mthrbord.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://cartooncartoons.thatsoretro.com/logo",Toonami & Adult Swim Live
+https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.expiredpopsicle.com/logo",Kiri Artemis [VTuber/Gamedev/Artist]
+https://live.expiredpopsicle.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://cast.otternet.ca/logo",Ottercast
 https://cast.otternet.ca/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://livestream.rasat.tv/logo",Radio-Satisfaction.de *Livestream*
-https://livestream.rasat.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://khyretos.kreative-kompas.com/logo",Khyretos
+https://khyretos.kreative-kompas.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.kenobisboch.it/logo",Kenobisboch
+https://tv.kenobisboch.it/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tavlive.com/logo",TAV Network
 https://tavlive.com/hls/stream.m3u8
@@ -42,20 +39,20 @@ https://tavlive.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://owncast.sicnal-stream.de/logo",[SIC]NAL
 https://owncast.sicnal-stream.de/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://sashacam.sashanet.net/logo",SashaCam - hungry outside cats
-https://sashacam.sashanet.net/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://video.lpam.be/logo",Radio Benelux Streaming
 https://video.lpam.be/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.cosigo.io/logo",Welcome to the COSIGO™ live stream. Discussion of the silver-backed ERC-20 token system and how communities can operate independent COSIGO satellite networks issuing their own tokens — for example COSIGO_youruniquetokennamehere.
-https://stream.cosigo.io/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://theupperleft.thesprawl.online/logo",TheUpperLeft
+https://theupperleft.thesprawl.online/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://tuxsa.net/logo",TUXSA TV
+https://tuxsa.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.radio90.fm/logo",Radio90 TV
 https://tv.radio90.fm/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tuxsa.net/logo",TUXSA TV
-https://tuxsa.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://livestream.rasat.tv/logo",Radio-Satisfaction.de *Livestream*
+https://livestream.rasat.tv/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://weinstream.de/logo",Keltern Live Streaming
 https://weinstream.de/hls/stream.m3u8
@@ -66,5 +63,8 @@ https://admin.mcoctv.us/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://live.theroseburgreceiver.com/logo",The Roseburg Receiver Live Stream
 https://live.theroseburgreceiver.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://theupperleft.thesprawl.online/logo",TheUpperLeft
-https://theupperleft.thesprawl.online/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://stream.cosigo.io/logo",Welcome to the COSIGO™ live stream. Discussion of the silver-backed ERC-20 token system and how communities can operate independent COSIGO satellite networks issuing their own tokens — for example COSIGO_youruniquetokennamehere.
+https://stream.cosigo.io/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://sashacam.sashanet.net/logo",SashaCam - hungry outside cats
+https://sashacam.sashanet.net/hls/stream.m3u8
