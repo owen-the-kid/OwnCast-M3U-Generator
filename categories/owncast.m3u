@@ -6,44 +6,38 @@ https://tv.theindiebeat.fm/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tv.jkl.hacklab.fi/logo",Hacklab Jyväskylä
 https://tv.jkl.hacklab.fi/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://secret.draculo.net/logo",Draculo's Secret Castle
-https://secret.draculo.net/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://watch.owncast.online/logo",Owncast TV
 https://watch.owncast.online/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.mediagoober.com/logo",MediaGoober
-https://tv.mediagoober.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.24hrkpop.com/logo",24hr kpop TV Broadcast
 https://live.24hrkpop.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://mthrbord.tv/logo",V O I D
+https://mthrbord.tv/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://cartooncartoons.thatsoretro.com/logo",Toonami & Adult Swim Live
 https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.expiredpopsicle.com/logo",Kiri Artemis [VTuber/Gamedev/Artist]
-https://live.expiredpopsicle.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="http://135.134.70.80/logo",DrNut
+http://135.134.70.80/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://tavlive.com/logo",TAV Network
+https://tavlive.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://cast.otternet.ca/logo",Ottercast
 https://cast.otternet.ca/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://khyretos.kreative-kompas.com/logo",Khyretos
-https://khyretos.kreative-kompas.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://tv.kenobisboch.it/logo",Kenobisboch
 https://tv.kenobisboch.it/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tavlive.com/logo",TAV Network
-https://tavlive.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://theupperleft.thesprawl.online/logo",TheUpperLeft
+https://theupperleft.thesprawl.online/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://owncast.sicnal-stream.de/logo",[SIC]NAL
 https://owncast.sicnal-stream.de/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://video.lpam.be/logo",Radio Benelux Streaming
 https://video.lpam.be/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://theupperleft.thesprawl.online/logo",TheUpperLeft
-https://theupperleft.thesprawl.online/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tuxsa.net/logo",TUXSA TV
 https://tuxsa.net/hls/stream.m3u8
