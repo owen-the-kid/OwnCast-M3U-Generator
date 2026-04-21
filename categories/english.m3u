@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://live.retrospection.%E3%81%BF%E3%82%93%E3%81%AA/logo",PC Gaming Cast
-https://live.retrospection.%E3%81%BF%E3%82%93%E3%81%AA/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://cartooncartoons.thatsoretro.com/logo",Toonami & Adult Swim Live
 https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://show.kotking.noho.st/logo",Kotking Kingdom
+https://show.kotking.noho.st/hls/stream.m3u8
