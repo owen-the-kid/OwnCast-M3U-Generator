@@ -1,7 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://err.tabulatethemerits.com/logo",Err's Lair
+https://err.tabulatethemerits.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://show.kotking.noho.st/logo",Kotking Kingdom
-https://show.kotking.noho.st/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://tv.sprnva.com/logo",SPRNVA | RoboRev
+https://tv.sprnva.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.avarisclari.place/logo",Avaris' Hangout Space
+https://live.avarisclari.place/hls/stream.m3u8
