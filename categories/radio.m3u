@@ -6,9 +6,6 @@ https://watch.chiptune.fm/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://watch.vapor.fm/logo",24/7 Vapor Funk Radio
 https://watch.vapor.fm/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.smittystream.com/logo",Christmas Court Radio
-https://live.smittystream.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="http://live.rokjok.fm/logo",RokJok.FM
 http://live.rokjok.fm/hls/stream.m3u8
 
