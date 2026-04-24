@@ -18,9 +18,6 @@ https://tvrestaurandovidas.ovalcast.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://intergalactic.fm/sites/default/files/styles/thumbnail/public/2023-07/MTV.logo_.no_.tx_.png" group-title="entertainment",IFM - MurderCapital TV
 https://intergalactic.tv/live/smil:mtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://wochenschautv.com/logo" group-title="movies",Wochenschau TV
-https://wochenschautv.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://watch.chiptune.fm/logo" group-title="Music",24/7 Chiptune Radio
 https://watch.chiptune.fm/hls/stream.m3u8
 
@@ -30,20 +27,23 @@ https://watch.vapor.fm/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://live.24hrkpop.com/logo" group-title="Music",24hr kpop TV Broadcast
 https://live.24hrkpop.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://live.smittystream.com/logo" group-title="Music",Christmas Court Radio
+https://live.smittystream.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://stream.flash-radio.de/logo" group-title="Music",Flash-Radio e.V.
 https://stream.flash-radio.de/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://intergalactic.fm/themes/custom/ifm/logo.svg" group-title="music",IFM - CBS TV
 https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://live.thekrushnation.com/logo" group-title="Music",Krushnation Live
+https://live.thekrushnation.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://stream.lalalatvchannel.com/logo" group-title="Music",lalala tv
 https://stream.lalalatvchannel.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://video.lpam.be/logo" group-title="Music",Radio Benelux Streaming
 https://video.lpam.be/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://stream.rich-text.net/logo" group-title="Music",Radio Nachos!
-https://stream.rich-text.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://livestream.rasat.tv/logo" group-title="Music",Radio-Satisfaction.de *Livestream*
 https://livestream.rasat.tv/hls/stream.m3u8
@@ -63,6 +63,9 @@ https://stream.unusualart.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://mthrbord.tv/logo" group-title="Music",V O I D
 https://mthrbord.tv/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://31u.duckdns.org/logo" group-title="owncast",32U
+https://31u.duckdns.org/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://watch.owncast.online/logo" group-title="owncast",Owncast TV
 https://watch.owncast.online/hls/stream.m3u8
 
@@ -80,9 +83,6 @@ https://tv1.ctbmedia.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://mywbai.us/logo" group-title="streaming",DDP LIVE WHCR.ORG
 https://mywbai.us/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://myddptv.xyz/logo" group-title="streaming",DDPTV LIVE  DJ Stream 24.7
-https://myddptv.xyz/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.jkl.hacklab.fi/logo" group-title="streaming",Hacklab Jyväskylä
 https://tv.jkl.hacklab.fi/hls/stream.m3u8
@@ -153,6 +153,12 @@ https://live.omroepnet.nl/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://afterswim.org/logo" group-title="tv",[after swim]
 https://afterswim.org/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="http://135.134.70.80/logo" group-title="Video Games",DrNut
+http://135.134.70.80/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.sprnva.com/logo" group-title="Video Games",SPRNVA | RoboRev
+https://tv.sprnva.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo" group-title="Video Games",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
@@ -161,6 +167,9 @@ https://media.mnrails.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://myddptv.site/logo" group-title="Uncategorized",CHAC CHAPTER TEACHING NETWORK
 https://myddptv.site/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.ragtime.be/logo" group-title="Uncategorized",LIVE
+https://live.ragtime.be/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.nitetime.net/logo" group-title="Uncategorized",nitetime.net
 https://live.nitetime.net/hls/stream.m3u8
@@ -173,6 +182,9 @@ https://radio67tv.tvabierta.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://owncast3.zuidwest.cloud/logo" group-title="Uncategorized",Rucphen RTV
 https://owncast3.zuidwest.cloud/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.azeemhussein.com/logo" group-title="Uncategorized",Stream of Konsciousness
+https://live.azeemhussein.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://swimrewind.com/logo" group-title="Uncategorized",Swim Rewind
 https://swimrewind.com/hls/stream.m3u8
