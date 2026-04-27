@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://x1co.com.br:2083/logo" group-title="24/7",NickOnline
-https://x1co.com.br:2083/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://x1co.com.br/logo" group-title="24/7",NickOnline
 https://x1co.com.br/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://x1co.com.br:2083/logo" group-title="24/7",NickOnline
+https://x1co.com.br:2083/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvrestaurandovidas.ovalcast.com/logo" group-title="church",Radio y TV Restaurando Vidas
 https://tvrestaurandovidas.ovalcast.com/hls/stream.m3u8
@@ -12,14 +12,8 @@ https://tvrestaurandovidas.ovalcast.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://intergalactic.fm/sites/default/files/styles/thumbnail/public/2023-07/MTV.logo_.no_.tx_.png" group-title="entertainment",IFM - MurderCapital TV
 https://intergalactic.tv/live/smil:mtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.murad.gg/logo" group-title="everything",Murad TV
-https://tv.murad.gg/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://err.tabulatethemerits.com/logo" group-title="gaming",Err's Lair
-https://err.tabulatethemerits.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.literalgrill.com/logo" group-title="movies",Susan's Cinema Stash
-https://live.literalgrill.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://wochenschautv.com/logo" group-title="movies",Wochenschau TV
+https://wochenschautv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://watch.chiptune.fm/logo" group-title="Music",24/7 Chiptune Radio
 https://watch.chiptune.fm/hls/stream.m3u8
@@ -38,9 +32,6 @@ https://stream.flash-radio.de/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://intergalactic.fm/themes/custom/ifm/logo.svg" group-title="music",IFM - CBS TV
 https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://owncast.circlewithadot.net/logo" group-title="Music",Incentive
-https://owncast.circlewithadot.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://stream.lalalatvchannel.com/logo" group-title="Music",lalala tv
 https://stream.lalalatvchannel.com/hls/stream.m3u8
@@ -68,9 +59,6 @@ https://stream.unusualart.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://mthrbord.tv/logo" group-title="Music",V O I D
 https://mthrbord.tv/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.nilustv.com/logo" group-title="nilustv",NilusTV
-https://tv.nilustv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://31u.duckdns.org/logo" group-title="owncast",32U
 https://31u.duckdns.org/hls/stream.m3u8
@@ -114,6 +102,9 @@ https://leighton.prcht.host/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://admin.mcoctv.us/logo" group-title="streaming",Manhattan Church TV
 https://admin.mcoctv.us/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://tv.mediagoober.com/logo" group-title="streaming",MediaGoober
+https://tv.mediagoober.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://livestream.zapto.org/logo" group-title="streaming",Mixmeister Videostream
 https://livestream.zapto.org/hls/stream.m3u8
 
@@ -134,6 +125,9 @@ https://owncast.home.arie-oud.nl/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live2.rasat.tv/logo" group-title="streaming",RaSatLOL Radio-Satisfaction #24/7 Event.Rasat.TV
 https://live2.rasat.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://video.radio-dragon-flame.com/logo" group-title="streaming",RDF Videostream
+https://video.radio-dragon-flame.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://videostream.reality-sound.de/logo" group-title="streaming",Reality-Sound Videostream
 https://videostream.reality-sound.de/hls/stream.m3u8
@@ -159,29 +153,20 @@ https://theupperleft.thesprawl.online/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tuxsa.net/logo" group-title="streaming",TUXSA TV
 https://tuxsa.net/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://cast.uimusic.shop/logo" group-title="streaming",UIMUSIC LIVE
+https://cast.uimusic.shop/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://stream.cosigo.io/logo" group-title="streaming",Welcome to the COSIGO™ live stream. Discussion of the silver-backed ERC-20 token system and how communities can operate independent COSIGO satellite networks issuing their own tokens — for example COSIGO_youruniquetokennamehere.
 https://stream.cosigo.io/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.omroepnet.nl/logo" group-title="streaming",XON
 https://live.omroepnet.nl/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.expiredpopsicle.com/logo" group-title="Tech",Kiri Artemis [VTuber/Gamedev/Artist]
-https://live.expiredpopsicle.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://afterswim.org/logo" group-title="tv",[after swim]
 https://afterswim.org/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://dingusmacdongle.live/logo" group-title="Video Games",DingusMacDongle's Streaming Server
-https://dingusmacdongle.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://khyretos.kreative-kompas.com/logo" group-title="Video Games",Khyretos
-https://khyretos.kreative-kompas.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo" group-title="Video Games",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://owncast.zalasur.media/logo" group-title="Video Games",Zalasur Media Live Streaming
-https://owncast.zalasur.media/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.mnrails.com/logo" group-title="Uncategorized",Caribou Streaming Server
 https://media.mnrails.com/hls/stream.m3u8
@@ -194,9 +179,6 @@ https://live.nitetime.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://myliveisoc.live/logo" group-title="Uncategorized",NYC isoc LIVE FREE
 https://myliveisoc.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://radio67tv.tvabierta.net/logo" group-title="Uncategorized",RADIO67TV
-https://radio67tv.tvabierta.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://owncast3.zuidwest.cloud/logo" group-title="Uncategorized",Rucphen RTV
 https://owncast3.zuidwest.cloud/hls/stream.m3u8
