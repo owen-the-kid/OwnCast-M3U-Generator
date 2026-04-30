@@ -3,14 +3,14 @@
 #EXTINF:-1 tvg-logo="https://x1co.com.br/logo" group-title="24/7",NickOnline
 https://x1co.com.br/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://live.verniy.tv/logo" group-title="anime",Verniy TV
+https://live.verniy.tv/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvrestaurandovidas.ovalcast.com/logo" group-title="church",Radio y TV Restaurando Vidas
 https://tvrestaurandovidas.ovalcast.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://intergalactic.fm/sites/default/files/styles/thumbnail/public/2023-07/MTV.logo_.no_.tx_.png" group-title="entertainment",IFM - MurderCapital TV
 https://intergalactic.tv/live/smil:mtv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://wochenschautv.com/logo" group-title="movies",Wochenschau TV
-https://wochenschautv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://watch.chiptune.fm/logo" group-title="Music",24/7 Chiptune Radio
 https://watch.chiptune.fm/hls/stream.m3u8
@@ -33,6 +33,9 @@ https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://stream.lalalatvchannel.com/logo" group-title="Music",lalala tv
 https://stream.lalalatvchannel.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://live.neko-network.net/logo" group-title="Music",Neko-Network Live Platform
+https://live.neko-network.net/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://server.partytown.tv/logo" group-title="Music",Partytown TV
 https://server.partytown.tv/hls/stream.m3u8
 
@@ -41,6 +44,9 @@ https://video.lpam.be/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://livestream.rasat.tv/logo" group-title="Music",Radio-Satisfaction.de *Livestream*
 https://livestream.rasat.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.rasat.tv/logo" group-title="Music",RaSat Radio-Satisfaction *Promostream*
+https://live.rasat.tv/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.rokjok.fm/logo" group-title="Music",RokJok.FM
 http://live.rokjok.fm/hls/stream.m3u8
@@ -54,6 +60,12 @@ https://stream.unusualart.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://mthrbord.tv/logo" group-title="Music",V O I D
 https://mthrbord.tv/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://tv.nilustv.com/logo" group-title="nilustv",NilusTV
+https://tv.nilustv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://33u.duckdns.org/logo" group-title="owncast",33u
+https://33u.duckdns.org/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://watch.owncast.online/logo" group-title="owncast",Owncast TV
 https://watch.owncast.online/hls/stream.m3u8
 
@@ -66,8 +78,8 @@ https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://telebulbo.sinistraverso.org/logo" group-title="resistance",TELEBULBO
 https://telebulbo.sinistraverso.org/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.comando78.net.br/logo" group-title="streaming",Channel 78 TV
-https://tv.comando78.net.br/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://live.allykotetsu.com/logo" group-title="streaming",Ally K
+https://live.allykotetsu.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv1.ctbmedia.net/logo" group-title="streaming",CTB Channel 1
 https://tv1.ctbmedia.net/hls/stream.m3u8
@@ -78,8 +90,11 @@ https://mywbai.us/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://myddptv.xyz/logo" group-title="streaming",DDPTV LIVE  DJ Stream 24.7
 https://myddptv.xyz/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://online.geyetv.com/logo" group-title="streaming",G-Eye TV Africa
+#EXTINF:-1 tvg-logo="https://online.geyetv.com/logo" group-title="streaming",G Eye TV Africa - SEE IT ALL KNOW IT ALL
 https://online.geyetv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://gamesmaster.uk/logo" group-title="streaming",GamesMaster
+https://gamesmaster.uk/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.jkl.hacklab.fi/logo" group-title="streaming",Hacklab Jyväskylä
 https://tv.jkl.hacklab.fi/hls/stream.m3u8
@@ -96,6 +111,12 @@ https://leighton.prcht.host/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://admin.mcoctv.us/logo" group-title="streaming",Manhattan Church TV
 https://admin.mcoctv.us/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://tv.mediagoober.com/logo" group-title="streaming",MediaGoober
+https://tv.mediagoober.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.minthomeden.com/logo" group-title="streaming",Mint's Home-Brewed Livestreams
+https://live.minthomeden.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://livestream.zapto.org/logo" group-title="streaming",Mixmeister Videostream
 https://livestream.zapto.org/hls/stream.m3u8
 
@@ -111,6 +132,9 @@ https://stream.radiohoogeveen.nl/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tv.radio90.fm/logo" group-title="streaming",Radio90 TV
 https://tv.radio90.fm/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://owncast.home.arie-oud.nl/logo" group-title="streaming",Radioschermer Live TV
+https://owncast.home.arie-oud.nl/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://live2.rasat.tv/logo" group-title="streaming",RaSatLOL Radio-Satisfaction #24/7 Event.Rasat.TV
 https://live2.rasat.tv/hls/stream.m3u8
 
@@ -119,6 +143,9 @@ https://videostream.reality-sound.de/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.retrostrange.com/logo" group-title="streaming",RetroStrange TV
 https://live.retrostrange.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.rsm106digital.com/logo" group-title="streaming",RSM Digital
+https://live.rsm106digital.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.otternet.se/logo" group-title="streaming",Rävgrävlan Live Server
 https://live.otternet.se/hls/stream.m3u8
@@ -150,8 +177,17 @@ https://afterswim.org/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo" group-title="Video Games",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://owncast.zalasur.media/logo" group-title="Video Games",Zalasur Media Live Streaming
+https://owncast.zalasur.media/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.mnrails.com/logo" group-title="Uncategorized",Caribou Streaming Server
+https://media.mnrails.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://myddptv.site/logo" group-title="Uncategorized",CHAC CHAPTER TEACHING NETWORK
 https://myddptv.site/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://stream.heff.tv/logo" group-title="Uncategorized",Heff.tv
+https://stream.heff.tv/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.nitetime.net/logo" group-title="Uncategorized",nitetime.net
 https://live.nitetime.net/hls/stream.m3u8
