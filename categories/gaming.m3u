@@ -1,10 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://live.allykotetsu.com/logo",Ally K
-https://live.allykotetsu.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.minthomeden.com/logo",Mint's Home-Brewed Livestreams
-https://live.minthomeden.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://stream.heff.tv/logo",Heff.tv
+https://stream.heff.tv/hls/stream.m3u8
