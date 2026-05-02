@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://x1co.com.br/logo",NickOnline
-https://x1co.com.br/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://x1co.com.br:2083/logo",NickOnline
 https://x1co.com.br:2083/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://x1co.com.br/logo",NickOnline
+https://x1co.com.br/hls/stream.m3u8
