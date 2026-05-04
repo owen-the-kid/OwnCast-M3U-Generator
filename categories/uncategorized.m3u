@@ -3,14 +3,14 @@
 #EXTINF:-1 tvg-logo="https://swimrewind.com/logo",Swim Rewind
 https://swimrewind.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://spongebob.x1co.com.br/logo",NickOnline Spongebob Squarepants
-https://spongebob.x1co.com.br/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://myddptv.site/logo",CHAC CHAPTER TEACHING NETWORK
 https://myddptv.site/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://myliveisoc.live/logo",NYC isoc LIVE FREE
 https://myliveisoc.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.azeemhussein.com/logo",Stream of Konsciousness
+https://live.azeemhussein.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://owncast3.zuidwest.cloud/logo",Rucphen RTV
 https://owncast3.zuidwest.cloud/hls/stream.m3u8
