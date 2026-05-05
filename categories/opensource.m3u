@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://owncast.eom.dev/logo",Owncast
-https://owncast.eom.dev/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://watch.owncast.online/logo",Owncast TV
 https://watch.owncast.online/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://owncast.eom.dev/logo",Owncast
+https://owncast.eom.dev/hls/stream.m3u8
