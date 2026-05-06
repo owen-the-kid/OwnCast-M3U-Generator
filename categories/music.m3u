@@ -9,26 +9,17 @@ https://watch.chiptune.fm/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://watch.vapor.fm/logo",24/7 Vapor Funk Radio
 https://watch.vapor.fm/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.lalalatvchannel.com/logo",lalala tv
-https://stream.lalalatvchannel.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.24hrkpop.com/logo",24hr kpop TV Broadcast
 https://live.24hrkpop.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://live.rokjok.fm/logo",RokJok.FM
-http://live.rokjok.fm/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://stream.unusualart.net/logo",Unusual Art
-https://stream.unusualart.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://stream.lalalatvchannel.com/logo",lalala tv
+https://stream.lalalatvchannel.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://mthrbord.tv/logo",V O I D
 https://mthrbord.tv/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://livestream.rasat.tv/logo",Radio-Satisfaction.de *Livestream*
-https://livestream.rasat.tv/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://server.partytown.tv/logo",Partytown TV
-https://server.partytown.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://video.lpam.be/logo",Radio Benelux Streaming
+https://video.lpam.be/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.smittystream.com/logo",Christmas Court Radio
 https://live.smittystream.com/hls/stream.m3u8
@@ -36,5 +27,11 @@ https://live.smittystream.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://stream.flash-radio.de/logo",Flash-Radio e.V.
 https://stream.flash-radio.de/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://video.lpam.be/logo",Radio Benelux Streaming
-https://video.lpam.be/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://stream.unusualart.net/logo",Unusual Art
+https://stream.unusualart.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://livestream.rasat.tv/logo",Radio-Satisfaction.de *Livestream*
+https://livestream.rasat.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://server.partytown.tv/logo",Partytown TV
+https://server.partytown.tv/hls/stream.m3u8
