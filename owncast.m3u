@@ -12,6 +12,9 @@ https://owncast.leshkov.su/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://intergalactic.fm/sites/default/files/styles/thumbnail/public/2023-07/MTV.logo_.no_.tx_.png" group-title="entertainment",IFM - MurderCapital TV
 https://intergalactic.tv/live/smil:mtv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://wochenschautv.com/logo" group-title="movies",Wochenschau TV
+https://wochenschautv.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://watch.chiptune.fm/logo" group-title="Music",24/7 Chiptune Radio
 https://watch.chiptune.fm/hls/stream.m3u8
 
@@ -54,9 +57,6 @@ https://stream.unusualart.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://mthrbord.tv/logo" group-title="Music",V O I D
 https://mthrbord.tv/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.nilustv.com/logo" group-title="nilustv",NilusTV
-https://tv.nilustv.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://watch.owncast.online/logo" group-title="owncast",Owncast TV
 https://watch.owncast.online/hls/stream.m3u8
 
@@ -69,14 +69,17 @@ https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://telebulbo.sinistraverso.org/logo" group-title="resistance",TELEBULBO
 https://telebulbo.sinistraverso.org/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.allykotetsu.com/logo" group-title="streaming",Ally K
-https://live.allykotetsu.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://rtv.tuxsa.it/logo" group-title="salerno",RTV TUXSA
+https://rtv.tuxsa.it/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv1.ctbmedia.net/logo" group-title="streaming",CTB Channel 1
 https://tv1.ctbmedia.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://myddptv.xyz/logo" group-title="streaming",DDPTV LIVE  DJ Stream 24.7
 https://myddptv.xyz/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://gamestream.ddnsgeek.com/logo" group-title="streaming",DoC Live STREAM
+https://gamestream.ddnsgeek.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://online.geyetv.com/logo" group-title="streaming",G Eye TV Africa - SEE IT ALL KNOW IT ALL
 https://online.geyetv.com/hls/stream.m3u8
@@ -87,6 +90,9 @@ https://gamesmaster.uk/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tv.jkl.hacklab.fi/logo" group-title="streaming",Hacklab Jyväskylä
 https://tv.jkl.hacklab.fi/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://justgospel-tv.fly.dev/logo" group-title="streaming",JustGospel TV
+https://justgospel-tv.fly.dev/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://tv.kenobisboch.it/logo" group-title="streaming",Kenobisboch
 https://tv.kenobisboch.it/hls/stream.m3u8
 
@@ -95,9 +101,6 @@ https://leighton.prcht.host/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://admin.mcoctv.us/logo" group-title="streaming",Manhattan Church TV
 https://admin.mcoctv.us/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.minthomeden.com/logo" group-title="streaming",Mint's Home-Brewed Livestreams
-https://live.minthomeden.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://livestream.zapto.org/logo" group-title="streaming",Mixmeister Videostream
 https://livestream.zapto.org/hls/stream.m3u8
@@ -110,6 +113,9 @@ https://cast.otternet.ca/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://stream.radiohoogeveen.nl/logo" group-title="streaming",Owncast
 https://stream.radiohoogeveen.nl/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvrestaurandovidas.ovalcast.com/logo" group-title="streaming",Radio y TV Restaurando Vidas
+https://tvrestaurandovidas.ovalcast.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.radio90.fm/logo" group-title="streaming",Radio90 TV
 https://tv.radio90.fm/hls/stream.m3u8
@@ -129,9 +135,6 @@ https://tavlive.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://theupperleft.thesprawl.online/logo" group-title="streaming",TheUpperLeft
 https://theupperleft.thesprawl.online/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tuxsa.net/logo" group-title="streaming",TUXSA TV
-https://tuxsa.net/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://stream.cosigo.io/logo" group-title="streaming",Welcome to the COSIGO™ live stream. Discussion of the silver-backed ERC-20 token system and how communities can operate independent COSIGO satellite networks issuing their own tokens — for example COSIGO_youruniquetokennamehere.
 https://stream.cosigo.io/hls/stream.m3u8
 
@@ -144,29 +147,11 @@ https://afterswim.org/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://stream.ovalcast.com/logo" group-title="tv",OvalCast LIVE
 https://stream.ovalcast.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://ety.cybre.stream/logo" group-title="Video Games",[ety // cybrestream]
-https://ety.cybre.stream/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.avarisclari.place/logo" group-title="Video Games",Avaris' Hangout Space
-https://live.avarisclari.place/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://stream.klay.moe/logo" group-title="Video Games",Cache's Corner
-https://stream.klay.moe/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://khyretos.kreative-kompas.com/logo" group-title="Video Games",Khyretos
-https://khyretos.kreative-kompas.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://silvanestimek.stream/logo" group-title="Video Games",SilvanestiMek's Streams
-https://silvanestimek.stream/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo" group-title="Video Games",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://myddptv.site/logo" group-title="Uncategorized",CHAC CHAPTER TEACHING NETWORK
 https://myddptv.site/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://spongebobnew.x1co.com.br/logo" group-title="Uncategorized",NickOnline Spongebob Squarepants
-https://spongebob.x1co.com.br/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.nitetime.net/logo" group-title="Uncategorized",nitetime.net
 https://live.nitetime.net/hls/stream.m3u8
@@ -177,8 +162,8 @@ https://myliveisoc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://owncast3.zuidwest.cloud/logo" group-title="Uncategorized",Rucphen RTV
 https://owncast3.zuidwest.cloud/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.azeemhussein.com/logo" group-title="Uncategorized",Stream of Konsciousness
-https://live.azeemhussein.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://swimrewind.com/logo" group-title="Uncategorized",Swim Rewind
 https://swimrewind.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://syrnykove.kolo.moe/logo" group-title="عادل امام",Сирниковий вільний етерчик
+https://syrnykove.kolo.moe/hls/stream.m3u8
