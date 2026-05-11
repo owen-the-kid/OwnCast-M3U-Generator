@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://live.literalgrill.com/logo",Susan's Cinema Stash
-https://live.literalgrill.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.retrostrange.com/logo",RetroStrange TV
 https://live.retrostrange.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://wochenschautv.com/logo",Wochenschau TV
+https://wochenschautv.com/hls/stream.m3u8
