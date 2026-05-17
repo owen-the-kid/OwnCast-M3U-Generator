@@ -1,10 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://stream.hylas.au/logo",Hylas
-https://stream.hylas.au/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://dingusmacdongle.live/logo",DingusMacDongle's Streaming Server
-https://dingusmacdongle.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://owncast.zalasur.media/logo",Zalasur Media Live Streaming
+https://owncast.zalasur.media/hls/stream.m3u8
