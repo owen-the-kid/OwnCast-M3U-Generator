@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://x1co.com.br/logo" group-title="24/7",NickOnline
 https://x1co.com.br/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://owncast.leshkov.su/logo" group-title="Chatting",Owncast Server hosted by Leshkov
+https://owncast.leshkov.su/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="http://live.iolambc.com/logo" group-title="church",Live.IolaMBC.com
 http://live.iolambc.com/hls/stream.m3u8
 
@@ -14,6 +17,9 @@ https://tv.f0rth.space/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://stream.ijmond360.it/logo" group-title="ijmond360",IJmond 360 Live Stream
 https://stream.ijmond360.it/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://wochenschautv.com/logo" group-title="movies",Wochenschau TV
+https://wochenschautv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://watch.chiptune.fm/logo" group-title="Music",24/7 Chiptune Radio
 https://watch.chiptune.fm/hls/stream.m3u8
@@ -72,9 +78,6 @@ https://rtv.tuxsa.it/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tv1.ctbmedia.net/logo" group-title="streaming",CTB Channel 1
 https://tv1.ctbmedia.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://salon.ibzguy.com/logo" group-title="streaming",Cámara del salón (o acuario)
-https://salon.ibzguy.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://mywbai.us/logo" group-title="streaming",DDP LIVE WHCR.ORG
 https://mywbai.us/hls/stream.m3u8
 
@@ -93,9 +96,6 @@ https://tv.kenobisboch.it/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://leighton.prcht.host/logo" group-title="streaming",Leighton Media Live
 https://leighton.prcht.host/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://owncast.cdrom.tokyo/logo" group-title="streaming",LIVE: シーディーロム【﻿Ｓｈｉｄｉｒｏｍｕ】
-https://owncast.cdrom.tokyo/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://admin.mcoctv.us/logo" group-title="streaming",Manhattan Church TV
 https://admin.mcoctv.us/hls/stream.m3u8
 
@@ -108,6 +108,9 @@ https://video.nmgaming.info/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://wf.newscentral.ng:9080/logo" group-title="streaming",News Central Television Live Stream
 http://wf.newscentral.ng:9080/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://nhc.nimes.me/logo" group-title="streaming",NHC
+https://nhc.nimes.me/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://cast.otternet.ca/logo" group-title="streaming",Ottercast
 https://cast.otternet.ca/hls/stream.m3u8
 
@@ -117,8 +120,14 @@ https://stream.radiohoogeveen.nl/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tvrestaurandovidas.ovalcast.com/logo" group-title="streaming",Radio y TV Restaurando Vidas
 https://tvrestaurandovidas.ovalcast.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://tv.radio90.fm/logo" group-title="streaming",Radio90 TV
+https://tv.radio90.fm/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://owncast.home.arie-oud.nl/logo" group-title="streaming",Radioschermer Live TV
 https://owncast.home.arie-oud.nl/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://video.radio-dragon-flame.com/logo" group-title="streaming",RDF Videostream
+https://video.radio-dragon-flame.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://videostream.reality-sound.de/logo" group-title="streaming",Reality-Sound Videostream
 https://videostream.reality-sound.de/hls/stream.m3u8
@@ -128,6 +137,9 @@ https://live.retrostrange.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.otternet.se/logo" group-title="streaming",Rävgrävlan Live Server
 https://live.otternet.se/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://moelove.us/logo" group-title="streaming",STREAMING UNIVERSITY PROJECT
+https://moelove.us/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tavlive.com/logo" group-title="streaming",TAV Network
 https://tavlive.com/hls/stream.m3u8
@@ -153,11 +165,8 @@ http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BBxuA9d.png" group-title="toonami",Toonami Aftermath West
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://afterswim.org/logo" group-title="tv",[after swim]
-https://afterswim.org/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://stream.ovalcast.com/logo" group-title="tv",OvalCast LIVE
-https://stream.ovalcast.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://stream.repeatro.de/logo" group-title="Video Games",repeatro
+https://stream.repeatro.de/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo" group-title="Video Games",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
@@ -188,9 +197,6 @@ https://radio67tv.tvabierta.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://owncast3.zuidwest.cloud/logo" group-title="Uncategorized",Rucphen RTV
 https://owncast3.zuidwest.cloud/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.azeemhussein.com/logo" group-title="Uncategorized",Stream of Konsciousness
-https://live.azeemhussein.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://swimrewind.com/logo" group-title="Uncategorized",Swim Rewind
 https://swimrewind.com/hls/stream.m3u8
