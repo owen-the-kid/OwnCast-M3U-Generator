@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://wochenschautv.com/logo",Wochenschau TV
+https://wochenschautv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.raemi.xyz/logo",Raemi TV
+https://tv.raemi.xyz/hls/stream.m3u8

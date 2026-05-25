@@ -3,5 +3,8 @@
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://stream.enigmaprojects.org/logo",EnigmaProjectsTV
+https://stream.enigmaprojects.org/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://video.nmgaming.info/logo",More Freedom Streaming Network
 https://video.nmgaming.info/hls/stream.m3u8
