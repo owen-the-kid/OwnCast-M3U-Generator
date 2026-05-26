@@ -3,5 +3,5 @@
 #EXTINF:-1 tvg-logo="https://salon.ibzguy.com/logo",Cámara del salón (o acuario)
 https://salon.ibzguy.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://dormitorio.ibzguy.com/logo",Cámara del Dormitorio
-https://dormitorio.ibzguy.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://live.tommyswanson.fi/logo",Tommy's Cast
+https://live.tommyswanson.fi/hls/stream.m3u8
