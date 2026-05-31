@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://owncast.pixelsandpuppets.com/logo",Pixels and Puppets Owncast
-https://owncast.pixelsandpuppets.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://owncast.cdrom.tokyo/logo",LIVE: シーディーロム【﻿Ｓｈｉｄｉｒｏｍｕ】
+https://owncast.cdrom.tokyo/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.tommyswanson.fi/logo",Tommy's Cast
+https://live.tommyswanson.fi/hls/stream.m3u8
