@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://live.mijnconcours.nl/logo",Mijn Concours
-https://live.mijnconcours.nl/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://swimrewind.com/logo",Swim Rewind
 https://swimrewind.com/hls/stream.m3u8
 
@@ -12,17 +9,17 @@ https://myliveisoc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://myddptv.online/logo",DDPTV ONLINE
 https://myddptv.online/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://z.wuliaoyouxi.com/logo",无聊网络
-https://z.wuliaoyouxi.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://owncast3.zuidwest.cloud/logo",Rucphen RTV
-https://owncast3.zuidwest.cloud/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://live.azeemhussein.com/logo",Stream of Konsciousness
+https://live.azeemhussein.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://myddptv.site/logo",CHAC CHAPTER TEACHING NETWORK
 https://myddptv.site/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.mnrails.com/logo",Caribou Streaming Server
-https://media.mnrails.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.nitetime.net/logo",nitetime.net
 https://live.nitetime.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://owncast3.zuidwest.cloud/logo",Rucphen RTV
+https://owncast3.zuidwest.cloud/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.mnrails.com/logo",Caribou Streaming Server
+https://media.mnrails.com/hls/stream.m3u8

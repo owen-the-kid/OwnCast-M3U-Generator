@@ -3,12 +3,6 @@
 #EXTINF:-1 tvg-logo="https://cartooncartoons.thatsoretro.com/logo",Toonami & Adult Swim Live
 https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.lrnz.it/logo",TV.LRNZ.IT
-https://tv.lrnz.it/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://shaknunic.live.retrospection.jp.net/logo",Shak's Retro Spot
-https://shaknunic.live.retrospection.jp.net/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BBxuA9d.png",Toonami Aftermath East
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
