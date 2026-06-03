@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://err.tabulatethemerits.com/logo",Err's Lair
-https://err.tabulatethemerits.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.expiredpopsicle.com/logo",Kiri Artemis [VTuber/Gamedev/Artist]
 https://live.expiredpopsicle.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://owncast.astral0pitek.synology.me/logo",astral0pitek's Owncast server
+https://owncast.astral0pitek.synology.me/hls/stream.m3u8
