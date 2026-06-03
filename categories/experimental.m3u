@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://stream.unusualart.net/logo",Unusual Art
-https://stream.unusualart.net/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://tv.murad.gg/logo",Murad TV
 https://tv.murad.gg/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://stream.unusualart.net/logo",Unusual Art
+https://stream.unusualart.net/hls/stream.m3u8
