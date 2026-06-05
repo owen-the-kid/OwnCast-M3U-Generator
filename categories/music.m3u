@@ -18,9 +18,6 @@ https://live.thaspotonthago.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://mthrbord.tv/logo",V O I D
 https://mthrbord.tv/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://demolitionhq.fm/logo",01000100 01100101 01101101 01101111 01101100 01101001 01110100 01101001 01101111 01101110 01001000 01010001
-https://demolitionhq.fm/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://video.lpam.be/logo",Radio Benelux Streaming
 https://video.lpam.be/hls/stream.m3u8
 
@@ -36,11 +33,11 @@ https://live.smittystream.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://stream.unusualart.net/logo",Unusual Art
 https://stream.unusualart.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.lalalatvchannel.com/logo",lalala tv
-https://stream.lalalatvchannel.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.beat-zentrale.de/logo",Beat-Zentrale
 https://live.beat-zentrale.de/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://stream.lalalatvchannel.com/logo",lalala tv
+https://stream.lalalatvchannel.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://server.partytown.tv/logo",Partytown TV
 https://server.partytown.tv/hls/stream.m3u8
