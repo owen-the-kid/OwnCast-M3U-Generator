@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://143.0.35.218:9000/logo",Powervision TV
-http://143.0.35.218:9000/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="http://stream.powernetgroup.2bd.net:9000/logo",Powervision TV
+http://stream.powernetgroup.2bd.net:9000/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.thaspotonthago.com/logo",Tha Spot Live • Promote Yourself 🔥
 https://live.thaspotonthago.com/hls/stream.m3u8
