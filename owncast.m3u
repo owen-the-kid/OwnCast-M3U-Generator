@@ -12,9 +12,6 @@ https://tv.f0rth.space/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://stream.ijmond360.it/logo" group-title="ijmond360",IJmond 360 Live Stream
 https://stream.ijmond360.it/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://wochenschautv.com/logo" group-title="movies",Wochenschau TV
-https://wochenschautv.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://watch.chiptune.fm/logo" group-title="Music",24/7 Chiptune Radio
 https://watch.chiptune.fm/hls/stream.m3u8
 
@@ -60,12 +57,6 @@ https://stream.unusualart.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://mthrbord.tv/logo" group-title="Music",V O I D
 https://mthrbord.tv/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://slime.x1co.com.br/logo" group-title="nickelodeon",Slime
-https://slime.x1co.com.br/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://33u.duckdns.org/logo" group-title="owncast",33u
-https://33u.duckdns.org/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://watch.owncast.online/logo" group-title="owncast",Owncast TV
 https://watch.owncast.online/hls/stream.m3u8
 
@@ -83,9 +74,6 @@ https://live2.beat-zentrale.de/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv1.ctbmedia.net/logo" group-title="streaming",CTB Channel 1
 https://tv1.ctbmedia.net/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://salon.ibzguy.com/logo" group-title="streaming",Cámara del salón (o acuario)
-https://salon.ibzguy.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://mywbai.us/logo" group-title="streaming",DDP LIVE WHCR.ORG
 https://mywbai.us/hls/stream.m3u8
@@ -129,9 +117,6 @@ https://cast.otternet.ca/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://stream.radiohoogeveen.nl/logo" group-title="streaming",Owncast
 https://stream.radiohoogeveen.nl/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://stream.powernetgroup.2bd.net:9000/logo" group-title="streaming",Powervision TV
-http://stream.powernetgroup.2bd.net:9000/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvrestaurandovidas.ovalcast.com/logo" group-title="streaming",Radio y TV Restaurando Vidas
 https://tvrestaurandovidas.ovalcast.com/hls/stream.m3u8
 
@@ -140,9 +125,6 @@ https://tv.radio90.fm/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://owncast.home.arie-oud.nl/logo" group-title="streaming",Radioschermer Live TV
 https://owncast.home.arie-oud.nl/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://video.radio-dragon-flame.com/logo" group-title="streaming",RDF Videostream
-https://video.radio-dragon-flame.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://videostream.reality-sound.de/logo" group-title="streaming",Reality-Sound Videostream
 https://videostream.reality-sound.de/hls/stream.m3u8
@@ -171,9 +153,6 @@ https://stream.cosigo.io/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://live.omroepnet.nl/logo" group-title="streaming",XON
 https://live.omroepnet.nl/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.expiredpopsicle.com/logo" group-title="Tech",Kiri Artemis [VTuber/Gamedev/Artist]
-https://live.expiredpopsicle.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BBxuA9d.png" group-title="toonami",Toonami Aftermath East
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
@@ -185,9 +164,6 @@ http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BBxuA9d.png" group-title="toonami",Toonami Aftermath West
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://owncast.astral0pitek.synology.me/logo" group-title="Video Games",astral0pitek's Owncast server
-https://owncast.astral0pitek.synology.me/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.thistleandmoss.org/logo" group-title="Video Games",The Feral Altar of the Druid
 https://live.thistleandmoss.org/hls/stream.m3u8
@@ -216,8 +192,11 @@ https://radio67tv.tvabierta.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://owncast3.zuidwest.cloud/logo" group-title="Uncategorized",Rucphen RTV
 https://owncast3.zuidwest.cloud/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://live.azeemhussein.com/logo" group-title="Uncategorized",Stream of Konsciousness
+https://live.azeemhussein.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://swimrewind.com/logo" group-title="Uncategorized",Swim Rewind
 https://swimrewind.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://z.wuliaoyouxi.com/logo" group-title="Uncategorized",无聊网络
-https://z.wuliaoyouxi.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://themicroplex.com/logo" group-title="Uncategorized",theMicroplex
+https://themicroplex.com/hls/stream.m3u8
