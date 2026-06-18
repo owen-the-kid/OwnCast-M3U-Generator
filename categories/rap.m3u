@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://live.thaspotonthago.com/logo",Tha Spot Live • Promote Yourself 🔥
+https://live.thaspotonthago.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.away.video/logo",Away Video
+https://live.away.video/hls/stream.m3u8
