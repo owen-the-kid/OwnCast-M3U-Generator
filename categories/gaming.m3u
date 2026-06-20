@@ -3,5 +3,8 @@
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://owncast.majorhost.se/logo",Kron4n
+https://owncast.majorhost.se/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://streamlive.ntrx.top/logo",NOTORIEX LEGACY Streaming
 https://streamlive.ntrx.top/hls/stream.m3u8
