@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://radio.worldofdjschannel.com.br/logo",World Of Djs Channel
+https://radio.worldofdjschannel.com.br/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://live.away.video/logo",Away Video
 https://live.away.video/hls/stream.m3u8
 
