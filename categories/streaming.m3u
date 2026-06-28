@@ -1,40 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://silo.ffmuc.net/logo",Freifunk München - Weather Stream
-https://silo.ffmuc.net/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://tv.theindiebeat.fm/logo",The Indie Beat Television
 https://tv.theindiebeat.fm/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.retrostrange.com/logo",RetroStrange TV
-https://live.retrostrange.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://online.geyetv.com/logo",G Eye TV Africa - SEE IT ALL KNOW IT ALL
-https://online.geyetv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://wf.newscentral.ng:9080/logo",News Central Television Live Stream
 http://wf.newscentral.ng:9080/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://online.geyetv.com/logo",G Eye TV Africa - SEE IT ALL KNOW IT ALL
+https://online.geyetv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://stream.kdlc.click/logo",Streaming Server
+https://stream.kdlc.click/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.retrostrange.com/logo",RetroStrange TV
+https://live.retrostrange.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://radio.worldofdjschannel.com.br/logo",World Of Djs Channel
+https://radio.worldofdjschannel.com.br/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://tv.kenobisboch.it/logo",Kenobisboch
 https://tv.kenobisboch.it/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://mthrbord.tv/logo",V O I D
-https://mthrbord.tv/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://mywbai.us/logo",DDP LIVE WHCR.ORG
 https://mywbai.us/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.jkl.hacklab.fi/logo",Hacklab Jyväskylä
-https://tv.jkl.hacklab.fi/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.24hrkpop.com/logo",24hr kpop TV Broadcast
-https://live.24hrkpop.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://video.lpam.be/logo",Radio Benelux Streaming
 https://video.lpam.be/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://radio.worldofdjschannel.com.br/logo",World Of Djs Channel
-https://radio.worldofdjschannel.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://live.24hrkpop.com/logo",24hr kpop TV Broadcast
+https://live.24hrkpop.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.omroepnet.nl/logo",XON
 https://live.omroepnet.nl/hls/stream.m3u8
@@ -42,35 +36,50 @@ https://live.omroepnet.nl/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://leighton.prcht.host/logo",Leighton Media Live
 https://leighton.prcht.host/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://nak-live.l14mx.de/logo",Neuapostolische Kirche - Gemeinde Hannover-Süd
-https://nak-live.l14mx.de/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://mthrbord.tv/logo",V O I D
+https://mthrbord.tv/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv1.ctbmedia.net/logo",CTB Channel 1
-https://tv1.ctbmedia.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://mrpiddleswonderhour.click/logo",MrPiddles' Wonder Hour
+https://mrpiddleswonderhour.click/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.kdlc.click/logo",Streaming Server
-https://stream.kdlc.click/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://tv.jkl.hacklab.fi/logo",Hacklab Jyväskylä
+https://tv.jkl.hacklab.fi/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.thaspotonthago.com/logo",Tha Spot Live • Promote Yourself 🔥
-https://live.thaspotonthago.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://gamesmaster.uk/logo",GamesMaster
-https://gamesmaster.uk/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://stream.radiohoogeveen.nl/logo",Owncast
-https://stream.radiohoogeveen.nl/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://myddptv.xyz/logo",DDPTV LIVE  DJ Stream 24.7
-https://myddptv.xyz/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://video.oakhillcog.org/logo",Oak Hill Church of God
+https://video.oakhillcog.org/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tavlive.com/logo",BAV Network
 https://tavlive.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://live.rokjok.fm/logo",RokJok.FM
-http://live.rokjok.fm/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://myddptv.xyz/logo",DDPTV LIVE  DJ Stream 24.7
+https://myddptv.xyz/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://theupperleft.thesprawl.online/logo",TheUpperLeft
+https://theupperleft.thesprawl.online/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv1.ctbmedia.net/logo",CTB Channel 1
+https://tv1.ctbmedia.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://stream.radiohoogeveen.nl/logo",Owncast
+https://stream.radiohoogeveen.nl/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.rsm106digital.com/logo",RSM Digital
+https://live.rsm106digital.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.radio90.fm/logo",Radio90 TV
 https://tv.radio90.fm/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://live.rokjok.fm/logo",RokJok.FM
+http://live.rokjok.fm/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.otternet.se/logo",Rävgrävlan Live Server
+https://live.otternet.se/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://gamesmaster.uk/logo",GamesMaster
+https://gamesmaster.uk/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvrestaurandovidas.ovalcast.com/logo",Radio y TV Restaurando Vidas
+https://tvrestaurandovidas.ovalcast.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://weinstream.de/logo",Keltern Live Streaming
 https://weinstream.de/hls/stream.m3u8
@@ -78,8 +87,8 @@ https://weinstream.de/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://admin.mcoctv.us/logo",Manhattan Church TV
 https://admin.mcoctv.us/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://video.oakhillcog.org/logo",Oak Hill Church of God
-https://video.oakhillcog.org/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://streamlive.ntrx.top/logo",NOTORIEX LEGACY Streaming
+https://streamlive.ntrx.top/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://stream.cosigo.io/logo",Welcome to the COSIGO™ live stream. Discussion of the silver-backed ERC-20 token system and how communities can operate independent COSIGO satellite networks issuing their own tokens — for example COSIGO_youruniquetokennamehere.
 https://stream.cosigo.io/hls/stream.m3u8
@@ -90,9 +99,6 @@ https://live2.beat-zentrale.de/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://owncast.home.arie-oud.nl/logo",Radioschermer Live TV
 https://owncast.home.arie-oud.nl/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://theupperleft.thesprawl.online/logo",TheUpperLeft
-https://theupperleft.thesprawl.online/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://ravecave.publicvm.com/logo",RaveCave 2.0
 https://ravecave.publicvm.com/hls/stream.m3u8
 
@@ -101,9 +107,6 @@ https://sashacam.sashanet.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://cast.uimusic.shop/logo",UIMUSIC LIVE
 https://cast.uimusic.shop/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://streamlive.ntrx.top/logo",NOTORIEX LEGACY Streaming
-https://streamlive.ntrx.top/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://167.99.157.0:8080/logo",Channel 59
 http://167.99.157.0:8080/hls/stream.m3u8
