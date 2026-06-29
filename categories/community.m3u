@@ -3,5 +3,5 @@
 #EXTINF:-1 tvg-logo="https://worksonmymachine.live/logo",Works On My Machine LIVE!
 https://worksonmymachine.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://watch.owncast.online/logo",Owncast TV
-https://watch.owncast.online/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="http://167.99.157.0:8080/logo",Channel 59
+http://167.99.157.0:8080/hls/stream.m3u8
