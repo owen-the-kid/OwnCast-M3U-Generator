@@ -3,8 +3,14 @@
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://watch.mameau.com/logo",mameau
-https://watch.mameau.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://tv.sprnva.com/logo",SPRNVA | RoboRev
+https://tv.sprnva.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://shaknunic.live.retrospection.jp.net/logo",Shak's Retro Spot
+https://shaknunic.live.retrospection.jp.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.avarisclari.place/logo",Avaris' Hangout Space
+https://live.avarisclari.place/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://167.99.157.0:8080/logo",Channel 59
 http://167.99.157.0:8080/hls/stream.m3u8
