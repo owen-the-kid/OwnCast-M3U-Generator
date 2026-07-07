@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://live.timothycreates.com/logo",TimothyCreates
+https://live.timothycreates.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://video.nmgaming.info/logo",More Freedom Streaming Network
 https://video.nmgaming.info/hls/stream.m3u8
 

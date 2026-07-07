@@ -12,8 +12,8 @@ https://watch.chiptune.fm/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://radio.worldofdjschannel.com.br/logo",World Of Djs Channel
 https://radio.worldofdjschannel.com.br/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.flash-radio.de/logo",Flash-Radio e.V.
-https://stream.flash-radio.de/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://stream.djdarren.site/logo",#ThePlaylist
+https://stream.djdarren.site/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.24hrkpop.com/logo",24hr kpop TV Broadcast
 https://live.24hrkpop.com/hls/stream.m3u8
@@ -30,11 +30,11 @@ https://stream.unusualart.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://live.thaspotonthago.com/logo",Tha Spot Live • Promote Yourself 🔥
 https://live.thaspotonthago.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://stream.flash-radio.de/logo",Flash-Radio e.V.
+https://stream.flash-radio.de/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="http://live.rokjok.fm/logo",RokJok.FM
 http://live.rokjok.fm/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://othertv.stream/logo",OtherTV - Something Is On
-https://othertv.stream/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://video.lpam.be/logo",Radio Benelux Streaming
 https://video.lpam.be/hls/stream.m3u8
@@ -47,6 +47,9 @@ https://stream.lalalatvchannel.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.away.video/logo",Away Video
 https://live.away.video/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://othertv.stream/logo",OtherTV - Something Is On
+https://othertv.stream/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://ravecave.publicvm.com/logo",RaveCave 2.0
 https://ravecave.publicvm.com/hls/stream.m3u8
