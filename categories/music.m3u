@@ -12,11 +12,11 @@ https://watch.chiptune.fm/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://radio.worldofdjschannel.com.br/logo",World Of Djs Channel
 https://radio.worldofdjschannel.com.br/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.smittystream.com/logo",Christmas Court Radio
-https://live.smittystream.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.24hrkpop.com/logo",24hr kpop TV Broadcast
 https://live.24hrkpop.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.smittystream.com/logo",Christmas Court Radio
+https://live.smittystream.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://mthrbord.tv/logo",V O I D
 https://mthrbord.tv/hls/stream.m3u8
@@ -41,12 +41,6 @@ https://live.beat-zentrale.de/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.away.video/logo",Away Video
 https://live.away.video/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://server.partytown.tv/logo",Partytown TV
-https://server.partytown.tv/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://ravecave.publicvm.com/logo",RaveCave 2.0
-https://ravecave.publicvm.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://othertv.stream/logo",OtherTV - Something Is On
 https://othertv.stream/hls/stream.m3u8
