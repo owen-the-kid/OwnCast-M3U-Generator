@@ -15,20 +15,14 @@ https://mthrbord.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://radio.worldofdjschannel.com.br/logo",World Of Djs Channel
 https://radio.worldofdjschannel.com.br/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.smittystream.com/logo",Christmas Court Radio
-https://live.smittystream.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.pretok.tv/logo",Live Pretok TV
-https://live.pretok.tv/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.24hrkpop.com/logo",24hr kpop TV Broadcast
 https://live.24hrkpop.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://video.lpam.be/logo",Radio Benelux Streaming
 https://video.lpam.be/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://demolitionhq.fm/logo",01000100 01100101 01101101 01101111 01101100 01101001 01110100 01101001 01101111 01101110 01001000 01010001
-https://demolitionhq.fm/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://live.smittystream.com/logo",Christmas Court Radio
+https://live.smittystream.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://stream.unusualart.net/logo",VOID TV: DREAM TV
 https://stream.unusualart.net/hls/stream.m3u8
@@ -44,6 +38,9 @@ https://live.away.video/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://server.partytown.tv/logo",Partytown TV
 https://server.partytown.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.thaspotonthago.com/logo",Tha Spot Live • Promote Yourself 🔥
+https://live.thaspotonthago.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://othertv.stream/logo",OtherTV - Something Is On
 https://othertv.stream/hls/stream.m3u8
