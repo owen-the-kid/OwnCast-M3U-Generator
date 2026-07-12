@@ -1,13 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://live.azeemhussein.com/logo",Stream of Konsciousness
-https://live.azeemhussein.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.nitetime.net/logo",nitetime.net
 https://live.nitetime.net/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://myliveisoc.live/logo",Streaming u Project
-https://myliveisoc.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://owncast3.zuidwest.cloud/logo",Rucphen RTV
 https://owncast3.zuidwest.cloud/hls/stream.m3u8
@@ -17,6 +11,9 @@ https://myddptv.site/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://radio67tv.tvabierta.net/logo",RADIO67TV
 https://radio67tv.tvabierta.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://myliveisoc.live/logo",Streaming u Project
+https://myliveisoc.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://grow.dwot.io/logo",Cannabis Grow Stream 24/7 | dwotTV
 https://grow.dwot.io/hls/stream.m3u8

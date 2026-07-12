@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.kitsunech.jp.net/logo",Kitsune Channel
-https://live.kitsunech.jp.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://oneill.stream/logo",The O'Neill Codesmithing/Gamelosing Show
+https://oneill.stream/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://167.99.157.0:8080/logo",Channel 59
 http://167.99.157.0:8080/hls/stream.m3u8
