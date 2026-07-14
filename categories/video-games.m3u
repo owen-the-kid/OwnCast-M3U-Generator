@@ -3,14 +3,5 @@
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://ety.cybre.stream/logo",[ety // cybrestream]
-https://ety.cybre.stream/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://silvanestimek.stream/logo",SilvanestiMek's Streams
-https://silvanestimek.stream/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.fraxoweb.com/logo",Frank Ring
-https://live.fraxoweb.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="http://167.99.157.0:8080/logo",Channel 59
 http://167.99.157.0:8080/hls/stream.m3u8
