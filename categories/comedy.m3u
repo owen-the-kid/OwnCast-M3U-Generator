@@ -3,5 +3,8 @@
 #EXTINF:-1 tvg-logo="https://33u.duckdns.org/logo",33u
 https://33u.duckdns.org/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://31u.duckdns.org/logo",32U
+https://31u.duckdns.org/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://live2.beat-zentrale.de/logo",BZLOL Beat-Zentrale #24/7
 https://live2.beat-zentrale.de/hls/stream.m3u8
