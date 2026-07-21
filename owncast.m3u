@@ -3,11 +3,11 @@
 #EXTINF:-1 tvg-logo="https://x1colegal.com/logo" group-title="24/7",NickOnline
 https://x1colegal.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.literalgrill.com/logo" group-title="anime",Susan's Cinema Stash
-https://live.literalgrill.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="http://live.iolambc.com/logo" group-title="church",Live.IolaMBC.com
 http://live.iolambc.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://stream.powervisiontv.2bd.net:9000/logo" group-title="cinema",Powervision TV
+http://stream.powervisiontv.2bd.net:9000/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.junglekitten.nl/logo" group-title="dj sets",JungleTV brought to you by JUNGLEKITTEN.
 https://live.junglekitten.nl/hls/stream.m3u8
@@ -21,8 +21,8 @@ https://tv.f0rth.space/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://stream.ijmond360.it/logo" group-title="ijmond360",IJmond 360 Live Stream
 https://stream.ijmond360.it/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.djdarren.site/logo" group-title="Music",#ThePlaylist
-https://stream.djdarren.site/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://wochenschautv.com/logo" group-title="movies",Wochenschau TV
+https://wochenschautv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://watch.chiptune.fm/logo" group-title="Music",24/7 Chiptune Radio
 https://watch.chiptune.fm/hls/stream.m3u8
@@ -69,9 +69,6 @@ https://mthrbord.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://radio.worldofdjschannel.com.br/logo" group-title="Music",World Of Djs Channel
 https://radio.worldofdjschannel.com.br/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://33u.duckdns.org/logo" group-title="owncast",33u
-https://33u.duckdns.org/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://watch.owncast.online/logo" group-title="owncast",Owncast TV
 https://watch.owncast.online/hls/stream.m3u8
 
@@ -83,6 +80,9 @@ https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Omroep_Brabant_logo.svg/250px-Omroep_Brabant_logo.svg.png" group-title="regional",Omroep Brabant
 https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtv.tuxsa.it/logo" group-title="salerno",RTV TUXSA
+https://rtv.tuxsa.it/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://mystream.panafricanssi.org/logo" group-title="social",PANAfricanSSI  Live Stream
 https://mystream.panafricanssi.org/hls/stream.m3u8
@@ -108,8 +108,8 @@ https://silo.ffmuc.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://online.geyetv.com/logo" group-title="streaming",G Eye TV Africa - SEE IT ALL KNOW IT ALL
 https://online.geyetv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://gamesmaster.uk/logo" group-title="streaming",GamesMaster
-https://gamesmaster.uk/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://live.jenniegyllblad.com/logo" group-title="streaming",Jen's Studio
+https://live.jenniegyllblad.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://weinstream.de/logo" group-title="streaming",Keltern Live Streaming
 https://weinstream.de/hls/stream.m3u8
@@ -215,3 +215,6 @@ https://owncast3.zuidwest.cloud/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://sheridanmedia.tv/logo" group-title="Uncategorized",Sheridan Media TV
 https://Sheridanmedia.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://myliveisoc.live/logo" group-title="Uncategorized",Streaming u Project
+https://myliveisoc.live/hls/stream.m3u8
