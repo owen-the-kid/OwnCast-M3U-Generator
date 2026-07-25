@@ -21,6 +21,9 @@ https://live.24hrkpop.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://mthrbord.tv/logo",V O I D
 https://mthrbord.tv/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="http://live.rokjok.fm/logo",RokJok.FM
+http://live.rokjok.fm/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://live.beat-zentrale.de/logo",Beat-Zentrale TV
 https://live.beat-zentrale.de/hls/stream.m3u8
 
@@ -33,12 +36,6 @@ https://video.lpam.be/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://stream.unusualart.net/logo",Unusual Art
 https://stream.unusualart.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://live.rokjok.fm/logo",RokJok.FM
-http://live.rokjok.fm/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://burnlabs.root.sx/logo",BurnLabs Studio
-https://burnlabs.root.sx/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://stream.lalalatvchannel.com/logo",lalala tv
 https://stream.lalalatvchannel.com/hls/stream.m3u8
 
@@ -50,3 +47,6 @@ https://stream2.amghosting.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://othertv.stream/logo",OtherTV - Something Is On
 https://othertv.stream/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://burnlabs.root.sx/logo",BurnLabs Studio
+https://burnlabs.root.sx/hls/stream.m3u8

@@ -3,12 +3,6 @@
 #EXTINF:-1 tvg-logo="https://sheridanmedia.tv/logo",Sheridan Media TV
 https://Sheridanmedia.tv/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://krdtballet.rdagitz.net/logo",KRDT Ballet
-https://krdtballet.rdagitz.net/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://myddptv.site/logo",CHAC CHAPTER TEACHING NETWORK
-https://myddptv.site/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://myliveisoc.live/logo",Streaming u Project
 https://myliveisoc.live/hls/stream.m3u8
 
@@ -18,8 +12,8 @@ https://myddptv.online/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://live.nitetime.net/logo",nitetime.net
 https://live.nitetime.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.azeemhussein.com/logo",Stream of Konsciousness
-https://live.azeemhussein.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://myddptv.site/logo",CHAC CHAPTER TEACHING NETWORK
+https://myddptv.site/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://owncast3.zuidwest.cloud/logo",Rucphen RTV
 https://owncast3.zuidwest.cloud/hls/stream.m3u8
