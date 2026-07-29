@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://live.mosskoi.com/logo",MossKoi does things
+https://live.mosskoi.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.avarisclari.place/logo",Avaris' Hangout Space
+https://live.avarisclari.place/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://streamlive.ntrx.top/logo",NOTORIEX LEGACY Streaming
 https://streamlive.ntrx.top/hls/stream.m3u8
 
