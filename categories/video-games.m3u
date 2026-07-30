@@ -1,19 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://live.allykotetsu.com/logo",Ally Kotetsu (Livestream)
-https://live.allykotetsu.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://ety.cybre.stream/logo",[ety // cybrestream]
-https://ety.cybre.stream/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://silvanestimek.stream/logo",SilvanestiMek's Streams
-https://silvanestimek.stream/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.retrospection.xn--q9jyb4c/logo",PC Gaming Cast
-https://live.retrospection.xn--q9jyb4c/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://167.99.157.0:8080/logo",Channel 59
 http://167.99.157.0:8080/hls/stream.m3u8
