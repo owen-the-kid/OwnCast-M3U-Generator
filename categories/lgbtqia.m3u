@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://live.thistleandmoss.org/logo",The Feral Altar of the Druid
+https://live.thistleandmoss.org/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.avarisclari.place/logo",Avaris' Hangout Space
+https://live.avarisclari.place/hls/stream.m3u8
