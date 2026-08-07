@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://owncast.bowlafterbowl.com/logo",Bowl After Bowl
+https://owncast.bowlafterbowl.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://burnlabs.root.sx/logo",BurnLabs Studio
+https://burnlabs.root.sx/hls/stream.m3u8
