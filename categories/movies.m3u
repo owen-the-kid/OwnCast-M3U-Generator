@@ -6,5 +6,8 @@ https://live.retrostrange.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://wochenschautv.com/logo",Wochenschau TV
 https://wochenschautv.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://ztv.syncsl.com/logo",ZTV
+https://ztv.syncsl.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BBxuA9d.png",Toonami Aftermath Movies
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8

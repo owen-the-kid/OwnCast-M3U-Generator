@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://arena.bawnet.io/logo" group-title="cyberpunk",The Arena
+https://arena.bawnet.io/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://live.junglekitten.nl/logo" group-title="dj sets",JungleTV brought to you by JUNGLEKITTEN.
 https://live.junglekitten.nl/hls/stream.m3u8
 
@@ -8,9 +11,6 @@ https://intergalactic.tv/live/smil:mtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.f0rth.space/logo" group-title="hackerspace",F0RTHSP4CE
 https://tv.f0rth.space/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.hurjala.fi/logo" group-title="hurjala.fi",Hurjala Live
-https://live.hurjala.fi/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://stream.ijmond360.it/logo" group-title="ijmond360",IJmond 360 Live Stream
 https://stream.ijmond360.it/hls/stream.m3u8
@@ -66,9 +66,6 @@ https://mthrbord.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://radio.worldofdjschannel.com.br/logo" group-title="Music",World Of Djs Channel
 https://radio.worldofdjschannel.com.br/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://33u.duckdns.org/logo" group-title="owncast",33u
-https://33u.duckdns.org/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://watch.owncast.online/logo" group-title="owncast",Owncast TV
 https://watch.owncast.online/hls/stream.m3u8
 
@@ -105,9 +102,6 @@ https://online.geyetv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://gamesmaster.uk/logo" group-title="streaming",GamesMaster
 https://gamesmaster.uk/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://lordg6.onjase.quebec/logo" group-title="streaming",La Nuit du Lord
-https://lordg6.onjase.quebec/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://leighton.prcht.host/logo" group-title="streaming",Leighton Media Live
 https://leighton.prcht.host/hls/stream.m3u8
 
@@ -132,9 +126,6 @@ https://stream.radiohoogeveen.nl/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://live.retrostrange.com/logo" group-title="streaming",RetroStrange TV
 https://live.retrostrange.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.liverobradio204.com/logo" group-title="streaming",Rob Radio 204
-https://www.liverobradio204.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.otternet.se/logo" group-title="streaming",Rävgrävlan Live Server
 https://live.otternet.se/hls/stream.m3u8
 
@@ -150,8 +141,8 @@ https://stream.cosigo.io/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://live.omroepnet.nl/logo" group-title="streaming",XON
 https://live.omroepnet.nl/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://owncast.diemitchell.com/logo" group-title="Tech",DieMitchell's Qidi Q2 stream
-https://owncast.diemitchell.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://ztv.syncsl.com/logo" group-title="streaming",ZTV
+https://ztv.syncsl.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BBxuA9d.png" group-title="toonami",Toonami Aftermath East
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
@@ -168,17 +159,14 @@ http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://owncast.afterswim.org/logo" group-title="tv",[after swim]
 https://owncast.afterswim.org/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://burnlabs.root.sx/logo" group-title="Video Games",BurnLabs Studio
-https://burnlabs.root.sx/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="http://167.99.157.0:8080/logo" group-title="Video Games",Channel 59
 http://167.99.157.0:8080/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.thistleandmoss.org/logo" group-title="Video Games",The Feral Altar of the Druid
-https://live.thistleandmoss.org/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo" group-title="Video Games",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.nudoragon.com/logo" group-title="Video Games",龍女的直播天地 NudoLive
+https://live.nudoragon.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://grow.dwot.io/logo" group-title="Uncategorized",Cannabis Grow Stream 24/7 | dwotTV
 https://grow.dwot.io/hls/stream.m3u8
@@ -192,6 +180,12 @@ https://myddptv.site/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://myddptv.online/logo" group-title="Uncategorized",DDPTV ONLINE
 https://myddptv.online/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://live.nitetime.net/logo" group-title="Uncategorized",nitetime.net
+https://live.nitetime.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://pokemon.jayremote.net/logo" group-title="Uncategorized",Pokemon
+https://Pokemon.jayremote.net/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://radio67tv.tvabierta.net/logo" group-title="Uncategorized",RADIO67TV
 https://radio67tv.tvabierta.net/hls/stream.m3u8
 
@@ -200,9 +194,6 @@ https://owncast3.zuidwest.cloud/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://sheridanmedia.tv/logo" group-title="Uncategorized",Sheridan Media TV
 https://Sheridanmedia.tv/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.azeemhussein.com/logo" group-title="Uncategorized",Stream of Konsciousness
-https://live.azeemhussein.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://myliveisoc.live/logo" group-title="Uncategorized",Streaming u Project
 https://myliveisoc.live/hls/stream.m3u8
