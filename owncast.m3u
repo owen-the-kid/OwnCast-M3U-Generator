@@ -63,6 +63,12 @@ https://mthrbord.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://radio.worldofdjschannel.com.br/logo" group-title="Music",World Of Djs Channel
 https://radio.worldofdjschannel.com.br/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://tv.nilustv.com/logo" group-title="nilustv",NilusTV
+https://tv.nilustv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://fr-creative-commons-battle-channel.rp-rufus.de/logo" group-title="owncast",BATTLE CHANNEL - GERMANY TALK
+https://fr-creative-commons-battle-channel.rp-rufus.de/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://watch.owncast.online/logo" group-title="owncast",Owncast TV
 https://watch.owncast.online/hls/stream.m3u8
 
@@ -90,9 +96,6 @@ https://mywbai.us/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://myddptv.xyz/logo" group-title="streaming",DDPTV LIVE  DJ Stream 24.7
 https://myddptv.xyz/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.firesidefedi.live/logo" group-title="streaming",Fireside Fedi Livestream
-https://stream.firesidefedi.live/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://silo.ffmuc.net/logo" group-title="streaming",Freifunk München - Weather Stream
 https://silo.ffmuc.net/hls/stream.m3u8
 
@@ -104,9 +107,6 @@ https://tv.kenobisboch.it/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://leighton.prcht.host/logo" group-title="streaming",Leighton Media Live
 https://leighton.prcht.host/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://owncast.cdrom.tokyo/logo" group-title="streaming",LIVE: シーディーロム【﻿Ｓｈｉｄｉｒｏｍｕ】
-https://owncast.cdrom.tokyo/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://admin.mcoctv.us/logo" group-title="streaming",Manhattan Church TV
 https://admin.mcoctv.us/hls/stream.m3u8
@@ -125,6 +125,9 @@ https://stream.radiohoogeveen.nl/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvrestaurandovidas.ovalcast.com/logo" group-title="streaming",Radio y TV Restaurando Vidas
 https://tvrestaurandovidas.ovalcast.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://video.radio-dragon-flame.com/logo" group-title="streaming",RDF Videostream
+https://video.radio-dragon-flame.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.retrostrange.com/logo" group-title="streaming",RetroStrange TV
 https://live.retrostrange.com/hls/stream.m3u8
@@ -150,6 +153,9 @@ https://live.omroepnet.nl/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://ztv.syncsl.com/logo" group-title="streaming",ZTV
 https://ztv.syncsl.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://owncast.diemitchell.com/logo" group-title="Tech",DieMitchell's Qidi Q2 stream
+https://owncast.diemitchell.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://arena.bawnet.io/logo" group-title="Tech",The Arena
 https://arena.bawnet.io/hls/stream.m3u8
 
@@ -165,14 +171,8 @@ http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BBxuA9d.png" group-title="toonami",Toonami Aftermath West
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://owncast.afterswim.org/logo" group-title="tv",[after swim]
-https://owncast.afterswim.org/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="http://167.99.157.0:8080/logo" group-title="Video Games",Channel 59
 http://167.99.157.0:8080/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.thistleandmoss.org/logo" group-title="Video Games",The Feral Altar of the Druid
-https://live.thistleandmoss.org/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo" group-title="Video Games",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
@@ -203,9 +203,6 @@ https://owncast3.zuidwest.cloud/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://sheridanmedia.tv/logo" group-title="Uncategorized",Sheridan Media TV
 https://Sheridanmedia.tv/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.azeemhussein.com/logo" group-title="Uncategorized",Stream of Konsciousness
-https://live.azeemhussein.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://myliveisoc.live/logo" group-title="Uncategorized",Streaming u Project
 https://myliveisoc.live/hls/stream.m3u8
