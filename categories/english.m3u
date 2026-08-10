@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cartooncartoons.thatsoretro.com/logo",Toonami & Adult Swim Live
-https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://stream.monarkie.digital/logo",Monarkie | Live Stream
+https://stream.monarkie.digital/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://streamlive.ntrx.top/logo",NOTORIEX LEGACY Streaming
 https://streamlive.ntrx.top/hls/stream.m3u8

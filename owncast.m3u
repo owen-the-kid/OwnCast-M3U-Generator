@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://live.iolambc.com/logo" group-title="church",Live.IolaMBC.com
+http://live.iolambc.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://live.junglekitten.nl/logo" group-title="dj sets",JungleTV brought to you by JUNGLEKITTEN.
 https://live.junglekitten.nl/hls/stream.m3u8
 
@@ -42,6 +45,9 @@ https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://stream.lalalatvchannel.com/logo" group-title="Music",lalala tv
 https://stream.lalalatvchannel.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://stream.monarkie.digital/logo" group-title="Music",Monarkie | Live Stream
+https://stream.monarkie.digital/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://othertv.stream/logo" group-title="Music",OtherTV - Something Is On
 https://othertv.stream/hls/stream.m3u8
 
@@ -66,14 +72,8 @@ https://radio.worldofdjschannel.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tv.nilustv.com/logo" group-title="nilustv",NilusTV
 https://tv.nilustv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://fr-creative-commons-battle-channel.rp-rufus.de/logo" group-title="owncast",BATTLE CHANNEL - GERMANY TALK
-https://fr-creative-commons-battle-channel.rp-rufus.de/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://watch.owncast.online/logo" group-title="owncast",Owncast TV
 https://watch.owncast.online/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://cartooncartoons.thatsoretro.com/logo" group-title="owncast",Toonami & Adult Swim Live
-https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Omroep_Brabant_logo.svg/250px-Omroep_Brabant_logo.svg.png" group-title="regional",Omroep Brabant
 https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
@@ -83,6 +83,9 @@ https://rtv.tuxsa.it/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tavlive.com/logo" group-title="streaming",BAV Network
 https://tavlive.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.beerngear.com/logo" group-title="streaming",BNG Tap Room
+https://live.beerngear.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live2.beat-zentrale.de/logo" group-title="streaming",BZLOL Beat-Zentrale #24/7
 https://live2.beat-zentrale.de/hls/stream.m3u8
@@ -126,9 +129,6 @@ https://stream.radiohoogeveen.nl/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tvrestaurandovidas.ovalcast.com/logo" group-title="streaming",Radio y TV Restaurando Vidas
 https://tvrestaurandovidas.ovalcast.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://video.radio-dragon-flame.com/logo" group-title="streaming",RDF Videostream
-https://video.radio-dragon-flame.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.retrostrange.com/logo" group-title="streaming",RetroStrange TV
 https://live.retrostrange.com/hls/stream.m3u8
 
@@ -155,6 +155,9 @@ https://ztv.syncsl.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://owncast.diemitchell.com/logo" group-title="Tech",DieMitchell's Qidi Q2 stream
 https://owncast.diemitchell.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.expiredpopsicle.com/logo" group-title="Tech",Kiri Artemis [VTuber/Gamedev/Artist]
+https://live.expiredpopsicle.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://arena.bawnet.io/logo" group-title="Tech",The Arena
 https://arena.bawnet.io/hls/stream.m3u8
@@ -191,9 +194,6 @@ https://myddptv.online/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.nitetime.net/logo" group-title="Uncategorized",nitetime.net
 https://live.nitetime.net/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://pokemon.jayremote.net/logo" group-title="Uncategorized",Pokemon
-https://Pokemon.jayremote.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://radio67tv.tvabierta.net/logo" group-title="Uncategorized",RADIO67TV
 https://radio67tv.tvabierta.net/hls/stream.m3u8
