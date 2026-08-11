@@ -63,6 +63,9 @@ https://stream.unusualart.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://mthrbord.tv/logo" group-title="Music",V O I D
 https://mthrbord.tv/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://radio.worldofdjschannel.com.br/logo" group-title="Music",World Of Djs Channel
+https://radio.worldofdjschannel.com.br/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://watch.owncast.online/logo" group-title="owncast",Owncast TV
 https://watch.owncast.online/hls/stream.m3u8
 
@@ -74,9 +77,6 @@ https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://rtv.tuxsa.it/logo" group-title="salerno",RTV TUXSA
 https://rtv.tuxsa.it/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://tavlive.com/logo" group-title="streaming",BAV Network
-https://tavlive.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live2.beat-zentrale.de/logo" group-title="streaming",BZLOL Beat-Zentrale #24/7
 https://live2.beat-zentrale.de/hls/stream.m3u8
@@ -104,9 +104,6 @@ https://tv.kenobisboch.it/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://leighton.prcht.host/logo" group-title="streaming",Leighton Media Live
 https://leighton.prcht.host/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.linkzhq.com/logo" group-title="streaming",LinkzHQ Live
-https://live.linkzhq.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://admin.mcoctv.us/logo" group-title="streaming",Manhattan Church TV
 https://admin.mcoctv.us/hls/stream.m3u8
@@ -171,12 +168,6 @@ http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BBxuA9d.png" group-title="toonami",Toonami Aftermath West
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://supanion.onjase.quebec/logo" group-title="Video Games",[QC-FR] Supanion
-https://supanion.onjase.quebec/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.allykotetsu.com/logo" group-title="Video Games",Ally Kotetsu (Livestream)
-https://live.allykotetsu.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="http://167.99.157.0:8080/logo" group-title="Video Games",Channel 59
 http://167.99.157.0:8080/hls/stream.m3u8
 
@@ -188,6 +179,9 @@ https://media.mnrails.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://myddptv.site/logo" group-title="Uncategorized",CHAC CHAPTER TEACHING NETWORK
 https://myddptv.site/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://comingsoon.stream2.cursorpointer.be/logo" group-title="Uncategorized",Coming Soon Radio
+https://comingsoon.stream2.cursorpointer.be/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://myddptv.online/logo" group-title="Uncategorized",DDPTV ONLINE
 https://myddptv.online/hls/stream.m3u8
