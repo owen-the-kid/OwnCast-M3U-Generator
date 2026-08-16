@@ -1,16 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://xstreamsports1.duckdns.org/logo",XStream Sports Server
-https://xstreamsports1.duckdns.org/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://sheridanmedia.tv/logo",Sheridan Media TV
-https://Sheridanmedia.tv/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://pokemon.jayremote.net/logo",Pokemon
 https://Pokemon.jayremote.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.nitetime.net/logo",nitetime.net
 https://live.nitetime.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://myddptv.site/logo",CHAC CHAPTER TEACHING NETWORK
+https://myddptv.site/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://sheridanmedia.tv/logo",Sheridan Media TV
+https://Sheridanmedia.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.ksr.la/logo",Kyuu's live
+https://live.ksr.la/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://radio67tv.tvabierta.net/logo",RADIO67TV
 https://radio67tv.tvabierta.net/hls/stream.m3u8
