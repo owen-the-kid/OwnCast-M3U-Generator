@@ -8,6 +8,3 @@ https://live.retrostrange.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://cartooncartoons.thatsoretro.com/logo",Toonami & Adult Swim Live
 https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://owncast.dg410.dedyn.io/logo",DG 410's Live Stream
-https://owncast.dg410.dedyn.io/hls/stream.m3u8
