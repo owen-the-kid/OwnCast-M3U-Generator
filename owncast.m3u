@@ -57,6 +57,9 @@ https://mthrbord.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://radio.worldofdjschannel.com.br/logo" group-title="Music",World Of Djs Channel
 https://radio.worldofdjschannel.com.br/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://33u.duckdns.org/logo" group-title="owncast",33u
+https://33u.duckdns.org/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://watch.owncast.online/logo" group-title="owncast",Owncast TV
 https://watch.owncast.online/hls/stream.m3u8
 
@@ -99,20 +102,23 @@ https://gamesmaster.uk/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tv.kenobisboch.it/logo" group-title="streaming",Kenobisboch
 https://tv.kenobisboch.it/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://lordg6.onjase.quebec/logo" group-title="streaming",La Nuit du Lord
+https://lordg6.onjase.quebec/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://leighton.prcht.host/logo" group-title="streaming",Leighton Media Live
 https://leighton.prcht.host/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://admin.mcoctv.us/logo" group-title="streaming",Manhattan Church TV
 https://admin.mcoctv.us/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://owncast.mellowmountainradio.com/logo" group-title="streaming",Mellow Mountain Radio
+https://owncast.mellowmountainradio.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://streamlive.ntrx.top/logo" group-title="streaming",NOTORIEX LEGACY Streaming
 https://streamlive.ntrx.top/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://stream.radiohoogeveen.nl/logo" group-title="streaming",Owncast
 https://stream.radiohoogeveen.nl/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvrestaurandovidas.ovalcast.com/logo" group-title="streaming",Radio y TV Restaurando Vidas
-https://tvrestaurandovidas.ovalcast.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.retrostrange.com/logo" group-title="streaming",RetroStrange TV
 https://live.retrostrange.com/hls/stream.m3u8
@@ -123,6 +129,9 @@ https://stream.kdlc.click/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://theupperleft.thesprawl.online/logo" group-title="streaming",TheUpperLeft
 https://theupperleft.thesprawl.online/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://cast.uimusic.shop/logo" group-title="streaming",UIMUSIC LIVE
+https://cast.uimusic.shop/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://stream.cosigo.io/logo" group-title="streaming",Welcome to the COSIGO™ live stream. Discussion of the silver-backed ERC-20 token system and how communities can operate independent COSIGO satellite networks issuing their own tokens — for example COSIGO_youruniquetokennamehere.
 https://stream.cosigo.io/hls/stream.m3u8
 
@@ -131,6 +140,9 @@ https://live.omroepnet.nl/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://ztv.syncsl.com/logo" group-title="streaming",ZTV
 https://ztv.syncsl.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://owncast.diemitchell.com/logo" group-title="Tech",DieMitchell's Qidi Q2 stream
+https://owncast.diemitchell.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://arena.bawnet.io/logo" group-title="Tech",The Arena
 https://arena.bawnet.io/hls/stream.m3u8
@@ -147,9 +159,6 @@ http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BBxuA9d.png" group-title="toonami",Toonami Aftermath West
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://owncast.astral0pitek.synology.me/logo" group-title="Video Games",astral0pitek's Owncast server
-https://owncast.astral0pitek.synology.me/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://burnlabs.root.sx/logo" group-title="Video Games",BurnLabs Studio
 https://burnlabs.root.sx/hls/stream.m3u8
 
@@ -165,14 +174,8 @@ https://media.mnrails.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://myddptv.site/logo" group-title="Uncategorized",CHAC CHAPTER TEACHING NETWORK
 https://myddptv.site/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://comingsoon.stream2.cursorpointer.be/logo" group-title="Uncategorized",Coming Soon Radio
-https://comingsoon.stream2.cursorpointer.be/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.nitetime.net/logo" group-title="Uncategorized",nitetime.net
 https://live.nitetime.net/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://pokemon.jayremote.net/logo" group-title="Uncategorized",Pokemon
-https://Pokemon.jayremote.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://radio67tv.tvabierta.net/logo" group-title="Uncategorized",RADIO67TV
 https://radio67tv.tvabierta.net/hls/stream.m3u8
