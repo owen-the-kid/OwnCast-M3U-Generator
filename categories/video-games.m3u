@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://owncast.n8fq.org/logo",PurpleJillybeans
+https://owncast.n8fq.org/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://burnlabs.root.sx/logo",BurnLabs Studio
 https://burnlabs.root.sx/hls/stream.m3u8
 
