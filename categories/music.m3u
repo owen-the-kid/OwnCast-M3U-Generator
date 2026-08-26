@@ -3,29 +3,35 @@
 #EXTINF:-1 tvg-logo="https://watch.vapor.fm/logo",24/7 Vapor Funk Radio
 https://watch.vapor.fm/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.theindiebeat.fm/logo",The Indie Beat Television
-https://tv.theindiebeat.fm/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://watch.chiptune.fm/logo",24/7 Chiptune Radio
 https://watch.chiptune.fm/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://live.rokjok.fm/logo",RokJok.FM
-http://live.rokjok.fm/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://tv.theindiebeat.fm/logo",The Indie Beat Television
+https://tv.theindiebeat.fm/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.24hrkpop.com/logo",24hr kpop TV Broadcast
 https://live.24hrkpop.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://radio.worldofdjschannel.com.br/logo",World Of Djs Channel
-https://radio.worldofdjschannel.com.br/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.smittystream.com/logo",Christmas Court Radio
 https://live.smittystream.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://video.lpam.be/logo",Radio Benelux Streaming
-https://video.lpam.be/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://parachutelive.tv/logo",Mind Drip Media
+https://parachutelive.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://radio.worldofdjschannel.com.br/logo",World Of Djs Channel
+https://radio.worldofdjschannel.com.br/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.liverobradio204.com/logo",Rob Radio 204 - Live in Winnipeg
+https://www.liverobradio204.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://mthrbord.tv/logo",V O I D
 https://mthrbord.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://stream.unusualart.net/logo",Unusual Art
+https://stream.unusualart.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://2underground.com/logo",Underground One Cast
+https://2underground.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://stream.flash-radio.de/logo",Flash-Radio e.V.
 https://stream.flash-radio.de/hls/stream.m3u8
@@ -33,8 +39,11 @@ https://stream.flash-radio.de/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://live.away.video/logo",Away Video
 https://live.away.video/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.unusualart.net/logo",Unusual Art
-https://stream.unusualart.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://video.lpam.be/logo",Radio Benelux Streaming
+https://video.lpam.be/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://live.rokjok.fm/logo",RokJok.FM
+http://live.rokjok.fm/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.beat-zentrale.de/logo",Beat-Zentrale TV
 https://live.beat-zentrale.de/hls/stream.m3u8

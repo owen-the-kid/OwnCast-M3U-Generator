@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://lordg6.onjase.quebec/logo",La Nuit du Lord
-https://lordg6.onjase.quebec/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://parachutelive.tv/logo",Mind Drip Media
+https://parachutelive.tv/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://watch.mameau.com/logo",mameau
-https://watch.mameau.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://owncast.kreative-kompas.com/logo",Khyretos
+https://owncast.kreative-kompas.com/hls/stream.m3u8
