@@ -3,11 +3,11 @@
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://arena.bawnet.io/logo",The Arena
-https://arena.bawnet.io/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://owncast.diemitchell.com/logo",DieMitchell's Qidi Q2 stream
 https://owncast.diemitchell.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://arena.bawnet.io/logo",bawnet.io // The Arena
+https://arena.bawnet.io/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://burnlabs.root.sx/logo",BurnLabs Studio
 https://burnlabs.root.sx/hls/stream.m3u8

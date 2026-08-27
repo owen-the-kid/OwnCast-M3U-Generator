@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://arena.bawnet.io/logo",The Arena
-https://arena.bawnet.io/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://mthrbord.tv/logo",V O I D
 https://mthrbord.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://arena.bawnet.io/logo",bawnet.io // The Arena
+https://arena.bawnet.io/hls/stream.m3u8
