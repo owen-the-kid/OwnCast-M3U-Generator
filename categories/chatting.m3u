@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://live.nudoragon.com/logo",龍女的直播天地 NudoLive
-https://live.nudoragon.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://live.neris.zip/logo",NERIS.EXE
+https://live.neris.zip/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://owncast.leshkov.su/logo",Owncast Server hosted by Leshkov
 https://owncast.leshkov.su/hls/stream.m3u8
