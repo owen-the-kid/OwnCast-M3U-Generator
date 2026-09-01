@@ -1,16 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://video.mezzo.moe/logo",mezzostreams
-https://video.mezzo.moe/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://burnlabs.root.sx/logo",BurnLabs Studio
 https://burnlabs.root.sx/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.neris.zip/logo",NERIS.EXE
-https://live.neris.zip/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://167.99.157.0:8080/logo",Channel 59
 http://167.99.157.0:8080/hls/stream.m3u8
