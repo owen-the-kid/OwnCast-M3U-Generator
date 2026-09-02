@@ -1,7 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://owncast.kreative-kompas.com/logo",Khyretos
+https://owncast.kreative-kompas.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://burnlabs.root.sx/logo",BurnLabs Studio
 https://burnlabs.root.sx/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.neris.zip/logo",NERIS.EXE
-https://live.neris.zip/hls/stream.m3u8
