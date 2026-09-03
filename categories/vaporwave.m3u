@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://mthrbord.tv/logo",V O I D
-https://mthrbord.tv/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://vhsoasis.com/logo",VHS Oasis
 https://vhsoasis.com/hls/stream.m3u8
 
