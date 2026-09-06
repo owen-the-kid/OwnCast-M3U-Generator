@@ -3,5 +3,8 @@
 #EXTINF:-1 tvg-logo="http://live.iolambc.com/logo",Live.IolaMBC.com
 http://live.iolambc.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://stream.canvaschurchgr.org/logo",Canvas Church GR
+https://stream.canvaschurchgr.org/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvrestaurandovidas.ovalcast.com/logo",Radio y TV Restaurando Vidas
 https://tvrestaurandovidas.ovalcast.com/hls/stream.m3u8
