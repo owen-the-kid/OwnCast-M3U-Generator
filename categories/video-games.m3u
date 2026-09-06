@@ -6,11 +6,14 @@ https://otcs.minuspoint.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://live.retrospection.xn--q9jyb4c/logo",Old PC Gaming Cast
 https://live.retrospection.xn--q9jyb4c/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://owncast.kreative-kompas.com/logo",Khyretos
+https://owncast.kreative-kompas.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://owncast.astral0pitek.synology.me/logo",astral0pitek's Owncast server
 https://owncast.astral0pitek.synology.me/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://167.99.157.0:8080/logo",Channel 59
-http://167.99.157.0:8080/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://burnlabs.root.sx/logo",BurnLabs Studio
 https://burnlabs.root.sx/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://167.99.157.0:8080/logo",Channel 59
+http://167.99.157.0:8080/hls/stream.m3u8
