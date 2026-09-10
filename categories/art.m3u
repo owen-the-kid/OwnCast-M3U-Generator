@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://live.thegummiway.com/logo",Gummi TV
-https://live.thegummiway.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://live.jenniegyllblad.com/logo",Jen's Studio
+https://live.jenniegyllblad.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.clairemedeiros.com/logo",Streaming into the Void
-https://live.clairemedeiros.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://live.expiredpopsicle.com/logo",Kiri Artemis [VTuber/Gamedev/Artist]
+https://live.expiredpopsicle.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.northwestw.in/logo",NorthWestWind
+https://live.northwestw.in/hls/stream.m3u8
