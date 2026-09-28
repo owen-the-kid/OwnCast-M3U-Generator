@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://live.jenniegyllblad.com/logo",Jen's Studio
-https://live.jenniegyllblad.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://live.nudlan.is/logo",Nudlan
+https://live.nudlan.is/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://weinstream.de/logo",Keltern Live Streaming
-https://weinstream.de/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://lislegaard.stream/logo",Kristoffer Lislegaard's live stream
+https://lislegaard.stream/hls/stream.m3u8

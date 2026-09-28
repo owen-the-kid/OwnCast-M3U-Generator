@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://lislegaard.stream/logo",Kristoffer Lislegaard's live stream
+https://lislegaard.stream/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://arena.bawnet.io/logo",bawnet.io // The Arena
 https://arena.bawnet.io/hls/stream.m3u8
 
