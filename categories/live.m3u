@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://live.retrospace.top/logo",📺 RetroSpace Cartoons
-https://live.retrospace.top/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.omroepnet.nl/logo",XON
 https://live.omroepnet.nl/hls/stream.m3u8
 
