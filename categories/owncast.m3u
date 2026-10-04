@@ -3,65 +3,53 @@
 #EXTINF:-1 tvg-logo="https://tv.theindiebeat.fm/logo",The Indie Beat Television
 https://tv.theindiebeat.fm/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.labr.online/logo",LABR LIVE
-https://stream.labr.online/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.kenobisboch.it/logo",Kenobisboch
-https://tv.kenobisboch.it/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://video.radio-dragon-flame.com/logo",RDF Videostream
-https://video.radio-dragon-flame.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.24hrkpop.com/logo",24hr kpop TV Broadcast
-https://live.24hrkpop.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.liverobradio204.com/logo",Rob Radio 204 - Live in Winnipeg
-https://www.liverobradio204.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://video.noderunnersradio.com/logo",Noderunners Radio
-https://video.noderunnersradio.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://livestream.elbethelpbc.com/logo",EBPB Live Stream
-https://livestream.elbethelpbc.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://show.kotking.noho.st/logo",Kotking Kingdom
-https://show.kotking.noho.st/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://stream.kdlc.click/logo",SMNI 24/7 Livestream
 https://stream.kdlc.click/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.gmpclive.com/logo",GMPCLive
-https://live.gmpclive.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://silo.ffmuc.net/logo",Freifunk München - Weather Stream
-https://silo.ffmuc.net/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.d4rk.army/logo",Network 23
-https://tv.d4rk.army/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv1.ctbmedia.net/logo",CTB Channel 1
-https://tv1.ctbmedia.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://cartooncartoons.thatsoretro.com/logo",Toonami & Adult Swim Live
 https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://video.noderunnersradio.com/logo",Noderunners Radio
+https://video.noderunnersradio.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.kenobisboch.it/logo",Kenobisboch
+https://tv.kenobisboch.it/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://owncast.zalasur.media/logo",Zalasur Media Live Streaming
+https://owncast.zalasur.media/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://watch.almahexbla.de/logo",Books & Brews Guildhouse!
+https://watch.almahexbla.de/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.24hrkpop.com/logo",24hr kpop TV Broadcast
+https://live.24hrkpop.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://theupperleft.thesprawl.online/logo",TheUpperLeft
 https://theupperleft.thesprawl.online/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://owncast.astral0pitek.synology.me/logo",astral0pitek's Owncast server
-https://owncast.astral0pitek.synology.me/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://tv1.ctbmedia.net/logo",CTB Channel 1
+https://tv1.ctbmedia.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://silo.ffmuc.net/logo",Freifunk München - Weather Stream
+https://silo.ffmuc.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://dormitorio.ibzguy.com/logo",Cámara del Dormitorio ó Jardín
+https://dormitorio.ibzguy.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://video.lpam.be/logo",Radio Benelux Streaming
 https://video.lpam.be/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.linuxnation.social/logo",LinuxNation
-https://live.linuxnation.social/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://streaminguniversity.live/logo",STREAMING UNIVERSITY PROJECT
 https://streaminguniversity.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://fr-creative-commons-battle-channel.rp-rufus.de/logo",BATTLE CHANNEL - GERMANY TALK
-https://fr-creative-commons-battle-channel.rp-rufus.de/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://tv.d4rk.army/logo",Network 23
+https://tv.d4rk.army/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://sashacam.sashanet.net/logo",SashaCam - hungry outside cats
+https://sashacam.sashanet.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://stream.cosigo.io/logo",Welcome to the COSIGO™ live stream. Discussion of the silver-backed ERC-20 token system and how communities can operate independent COSIGO satellite networks issuing their own tokens — for example COSIGO_youruniquetokennamehere.
+https://stream.cosigo.io/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://cast.otternet.ca/logo",Ottercast
 https://cast.otternet.ca/hls/stream.m3u8
@@ -69,26 +57,17 @@ https://cast.otternet.ca/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://watch.owncast.online/logo",Owncast TV
 https://watch.owncast.online/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://dormitorio.ibzguy.com/logo",Cámara del Dormitorio ó Jardín
-https://dormitorio.ibzguy.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.rsm106digital.com/logo",RSM Digital
-https://live.rsm106digital.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://gamesmaster.uk/logo",GamesMaster
 https://gamesmaster.uk/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://tavlive.com/logo",BAV Network
-https://tavlive.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://stream.cosigo.io/logo",Welcome to the COSIGO™ live stream. Discussion of the silver-backed ERC-20 token system and how communities can operate independent COSIGO satellite networks issuing their own tokens — for example COSIGO_youruniquetokennamehere.
-https://stream.cosigo.io/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.otternet.se/logo",Rävgrävlan Live Server
-https://live.otternet.se/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://live.gmpclive.com/logo",GMPCLive
+https://live.gmpclive.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://31u.duckdns.org/logo",STUFF
 https://31u.duckdns.org/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.otternet.se/logo",Rävgrävlan Live Server
+https://live.otternet.se/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://admin.mcoctv.us/logo",Manhattan Church TV
 https://admin.mcoctv.us/hls/stream.m3u8
