@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://owncast.astral0pitek.synology.me/logo",astral0pitek's Owncast server
-https://owncast.astral0pitek.synology.me/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.liftedpixel.net/logo",The Pixel Network
 https://live.liftedpixel.net/hls/stream.m3u8
 
