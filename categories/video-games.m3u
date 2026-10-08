@@ -3,8 +3,11 @@
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.retrospection.xn--q9jyb4c/logo",Old TS3 Gaming Cast
-https://live.retrospection.xn--q9jyb4c/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://live.neris.zip/logo",NERIS.EXE
+https://live.neris.zip/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.nudlan.is/logo",Nudlan
+https://live.nudlan.is/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://burnlabs.root.sx/logo",BurnLabs Studio
 https://burnlabs.root.sx/hls/stream.m3u8
