@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://online.geyetv.com/logo",G Eye TV Africa - SEE IT ALL KNOW IT ALL
-https://online.geyetv.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="http://wf.newscentral.ng:9080/logo",News Central Television Live Stream
 http://wf.newscentral.ng:9080/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://online.geyetv.com/logo",G Eye TV Africa - SEE IT ALL KNOW IT ALL
+https://online.geyetv.com/hls/stream.m3u8
