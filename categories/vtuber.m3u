@@ -3,5 +3,5 @@
 #EXTINF:-1 tvg-logo="https://live.liftedpixel.net/logo",The Pixel Network
 https://live.liftedpixel.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.neris.zip/logo",NERIS.EXE
-https://live.neris.zip/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://owncast.june.ie/logo",june's owncast
+https://owncast.june.ie/hls/stream.m3u8
