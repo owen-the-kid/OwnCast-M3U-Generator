@@ -3,12 +3,6 @@
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://anarchism.boats/logo",Accessible Anarchism (disabled and queer politics)
-https://anarchism.boats/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.northwestw.in/logo",NorthWestWind
-https://live.northwestw.in/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.retrospection.xn--q9jyb4c/logo",Old TS3 Gaming Cast
 https://live.retrospection.xn--q9jyb4c/hls/stream.m3u8
 
