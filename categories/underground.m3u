@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://stream.unusualart.net/logo",Unusual Art
-https://stream.unusualart.net/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://2underground.com/logo",Underground One Cast
 https://2underground.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://stream.unusualart.net/logo",Unusual Art
+https://stream.unusualart.net/hls/stream.m3u8
