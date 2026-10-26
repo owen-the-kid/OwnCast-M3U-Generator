@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://video.hostingkw.nl/logo",Sleutelstad TV
-https://video.hostingkw.nl/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.bollenstreekomroep.nl/logo",Bollenstreek Omroep Live-TV
 https://live.bollenstreekomroep.nl/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.sleutelstad.nl/logo",Sleutelstad TV
+https://tv.sleutelstad.nl/hls/stream.m3u8
