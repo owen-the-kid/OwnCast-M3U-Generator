@@ -6,9 +6,6 @@ http://wf.newscentral.ng:9080/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tv.sleutelstad.nl/logo",Sleutelstad TV
 https://tv.sleutelstad.nl/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://parachutelive.tv/logo",Mind Drip Media
-https://parachutelive.tv/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.bollenstreekomroep.nl/logo",Bollenstreek Omroep Live-TV
 https://live.bollenstreekomroep.nl/hls/stream.m3u8
 
