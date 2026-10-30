@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://live.24hrkpop.com/logo",24hr kpop TV Broadcast
+https://live.24hrkpop.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.uaena.info/logo",Uaena.info Live
+https://live.uaena.info/hls/stream.m3u8
