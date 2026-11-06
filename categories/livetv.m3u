@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://tv.nilustv.com/logo",NilusTV
+https://tv.nilustv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://ocp.media-zoetermeer.nl/logo",Media Zoetermeer TV
+https://ocp.media-zoetermeer.nl/hls/stream.m3u8

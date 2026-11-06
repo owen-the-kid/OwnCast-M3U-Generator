@@ -15,17 +15,14 @@ https://my.webt.us/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://nyc.ccap.site/logo",CCAP TEACHING SERVICE
 https://nyc.ccap.site/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.azeemhussein.com/logo",Stream of Konsciousness
-https://live.azeemhussein.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://mywbai.us/logo",WHCR LIVE STUDIO
 https://mywbai.us/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://cooperpark.us/logo",cooperpark teaching network
-https://cooperpark.US/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://mex.ccap.site/logo",CCAP TEACHING NETWORK SERVICE
 https://mex.ccap.site/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://cooperpark.us/logo",cooperpark teaching network
+https://cooperpark.US/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://moelove.us/logo",STREAMING UNIVERSITY PROJECT
 https://moelove.us/hls/stream.m3u8
