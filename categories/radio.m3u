@@ -12,9 +12,6 @@ https://stream.flash-radio.de/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://live.smittystream.com/logo",Christmas Court Radio
 https://live.smittystream.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.liverobradio204.com/logo",Rob Radio 204 - Live in Winnipeg
-https://www.liverobradio204.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://video.noderunnersradio.com/logo",Noderunners Radio
 https://video.noderunnersradio.com/hls/stream.m3u8
 
