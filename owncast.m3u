@@ -15,12 +15,6 @@ https://intergalactic.tv/live/smil:mtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://stream.ijmond360.it/logo" group-title="ijmond360",IJmond 360 Live Stream
 https://stream.ijmond360.it/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://owncast.arjlabs.ir/logo" group-title="learning",ARJ Labs
-https://owncast.arjlabs.ir/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.sekyvp.com/logo" group-title="linux",The Offical Open Source Tonight Owncast
-https://live.sekyvp.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://wochenschautv.com/logo" group-title="movies",Wochenschau TV
 https://wochenschautv.com/hls/stream.m3u8
 
@@ -39,6 +33,9 @@ https://live.24hrkpop.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://live.away.video/logo" group-title="Music",Away Video
 https://live.away.video/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://live.beat-zentrale.de/logo" group-title="Music",Beat-Zentrale TV
+https://live.beat-zentrale.de/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://live.bollenstreekomroep.nl/logo" group-title="Music",Bollenstreek Omroep Live-TV
 https://live.bollenstreekomroep.nl/hls/stream.m3u8
 
@@ -48,11 +45,11 @@ https://live.smittystream.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://stream.flash-radio.de/logo" group-title="Music",Flash-Radio e.V.
 https://stream.flash-radio.de/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.gravitons.org/logo" group-title="Music",gravitons
-https://stream.gravitons.org/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://intergalactic.fm/themes/custom/ifm/logo.svg" group-title="music",IFM - CBS TV
 https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://parachutelive.tv/logo" group-title="Music",Mind Drip Media
+https://parachutelive.tv/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://video.noderunnersradio.com/logo" group-title="Music",Noderunners Radio
 https://video.noderunnersradio.com/hls/stream.m3u8
@@ -87,6 +84,9 @@ https://radio.worldofdjschannel.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://ocp.media-zoetermeer.nl/logo" group-title="nederland",Media Zoetermeer TV
 https://ocp.media-zoetermeer.nl/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://tv.nilustv.com/logo" group-title="nilustv",NilusTV
+https://tv.nilustv.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://watch.owncast.online/logo" group-title="owncast",Owncast TV
 https://watch.owncast.online/hls/stream.m3u8
 
@@ -120,9 +120,6 @@ https://silo.ffmuc.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://online.geyetv.com/logo" group-title="streaming",G Eye TV Africa - SEE IT ALL KNOW IT ALL
 https://online.geyetv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://gamesmaster.uk/logo" group-title="streaming",GamesMaster
-https://gamesmaster.uk/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.gmpclive.com/logo" group-title="streaming",GMPCLive
 https://live.gmpclive.com/hls/stream.m3u8
 
@@ -140,6 +137,12 @@ http://wf.newscentral.ng:9080/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://stream.radiohoogeveen.nl/logo" group-title="streaming",Owncast
 https://stream.radiohoogeveen.nl/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.pantsuprophet.xyz/logo" group-title="streaming",PANTSU PROPHET
+https://live.pantsuprophet.xyz/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.podcastsaregay.com/logo" group-title="streaming",Podcasts Are Gay
+https://live.podcastsaregay.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvrestaurandovidas.ovalcast.com/logo" group-title="streaming",Radio y TV Restaurando Vidas
 https://tvrestaurandovidas.ovalcast.com/hls/stream.m3u8
@@ -192,17 +195,11 @@ https://tv.taina.net.br/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://167.99.157.0:8080/logo" group-title="Video Games",Channel 59
 http://167.99.157.0:8080/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://fifthdread.tv/logo" group-title="Video Games",Fifthdread.tv
-https://fifthdread.tv/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://owncast.june.ie/logo" group-title="Video Games",june's owncast
-https://owncast.june.ie/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://live.retrospection.xn--q9jyb4c/logo" group-title="Video Games",Old TS3 Gaming Cast
+https://live.retrospection.xn--q9jyb4c/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo" group-title="Video Games",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.liftedpixel.net/logo" group-title="vtuber",The Pixel Network
-https://live.liftedpixel.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://mex.ccap.site/logo" group-title="Uncategorized",CCAP TEACHING NETWORK SERVICE
 https://mex.ccap.site/hls/stream.m3u8
@@ -212,6 +209,9 @@ https://nyc.ccap.site/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://myddptv.site/logo" group-title="Uncategorized",CHAC CHAPTER TEACHING NETWORK
 https://myddptv.site/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://my.webt.us/logo" group-title="Uncategorized",COMMUNITY FREE ..by us for us
+https://my.webt.us/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://cooperpark.us/logo" group-title="Uncategorized",cooperpark teaching network
 https://cooperpark.US/hls/stream.m3u8

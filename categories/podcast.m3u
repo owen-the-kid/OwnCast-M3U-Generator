@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://live.podcastsaregay.com/logo",Podcasts Are Gay
+https://live.podcastsaregay.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://parachutelive.tv/logo",Mind Drip Media
+https://parachutelive.tv/hls/stream.m3u8
