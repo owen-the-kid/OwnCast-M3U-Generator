@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://live.thegummiway.com/logo" group-title="art",Gummi TV
-https://live.thegummiway.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://tv.andinastereoonline.com/logo" group-title="ambiental",TV Andina Stereo 102.3
+https://tv.andinastereoonline.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://owncast.leshkov.su/logo" group-title="Chatting",Owncast Server hosted by Leshkov
 https://owncast.leshkov.su/hls/stream.m3u8
@@ -20,6 +20,9 @@ https://intergalactic.tv/live/smil:mtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://stream.ijmond360.it/logo" group-title="ijmond360",IJmond 360 Live Stream
 https://stream.ijmond360.it/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://wochenschautv.com/logo" group-title="movies",Wochenschau TV
+https://wochenschautv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://watch.chiptune.fm/logo" group-title="Music",24/7 Chiptune Radio
 https://watch.chiptune.fm/hls/stream.m3u8
@@ -54,9 +57,6 @@ https://video.noderunnersradio.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://video.lpam.be/logo" group-title="Music",Radio Benelux Streaming
 https://video.lpam.be/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://rageradiolive.tailff91bc.ts.net/logo" group-title="Music",Rage Radio Network
-https://rageradiolive.tailff91bc.ts.net/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.liverobradio204.com/logo" group-title="Music",Rob Radio 204 - Live in Winnipeg
 https://www.liverobradio204.com/hls/stream.m3u8
 
@@ -83,9 +83,6 @@ https://radio.worldofdjschannel.com.br/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://ocp.media-zoetermeer.nl/logo" group-title="nederland",Media Zoetermeer TV
 https://ocp.media-zoetermeer.nl/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.nilustv.com/logo" group-title="nilustv",NilusTV
-https://tv.nilustv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://watch.owncast.online/logo" group-title="owncast",Owncast TV
 https://watch.owncast.online/hls/stream.m3u8
@@ -126,6 +123,9 @@ https://gamesmaster.uk/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://live.gmpclive.com/logo" group-title="streaming",GMPCLive
 https://live.gmpclive.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://tv.kenobisboch.it/logo" group-title="streaming",Kenobisboch
+https://tv.kenobisboch.it/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://leighton.prcht.host/logo" group-title="streaming",Leighton Media Live
 https://leighton.prcht.host/hls/stream.m3u8
 
@@ -141,9 +141,6 @@ http://wf.newscentral.ng:9080/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://stream.radiohoogeveen.nl/logo" group-title="streaming",Owncast
 https://stream.radiohoogeveen.nl/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.pantsuprophet.xyz/logo" group-title="streaming",PANTSU PROPHET
-https://live.pantsuprophet.xyz/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvrestaurandovidas.ovalcast.com/logo" group-title="streaming",Radio y TV Restaurando Vidas
 https://tvrestaurandovidas.ovalcast.com/hls/stream.m3u8
 
@@ -155,9 +152,6 @@ https://live.retrostrange.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.otternet.se/logo" group-title="streaming",Rävgrävlan Live Server
 https://live.otternet.se/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://watch.stevensonmediagroup.ca/logo" group-title="streaming",SMG TV
-https://watch.stevensonmediagroup.ca/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://stream.kdlc.click/logo" group-title="streaming",SMNI 24/7 Livestream
 https://stream.kdlc.click/hls/stream.m3u8
@@ -195,17 +189,20 @@ https://tv.taina.net.br/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://167.99.157.0:8080/logo" group-title="Video Games",Channel 59
 http://167.99.157.0:8080/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://fifthdread.tv/logo" group-title="Video Games",Fifthdread.tv
+https://fifthdread.tv/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo" group-title="Video Games",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.verniy.tv/logo" group-title="Uncategorized",Bep
-https://live.verniy.tv/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://mex.ccap.site/logo" group-title="Uncategorized",CCAP TEACHING NETWORK SERVICE
 https://mex.ccap.site/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://nyc.ccap.site/logo" group-title="Uncategorized",CCAP TEACHING SERVICE
 https://nyc.ccap.site/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://comingsoon.stream2.cursorpointer.be/logo" group-title="Uncategorized",Coming Soon Radio
+https://comingsoon.stream2.cursorpointer.be/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://my.webt.us/logo" group-title="Uncategorized",COMMUNITY FREE ..by us for us
 https://my.webt.us/hls/stream.m3u8
