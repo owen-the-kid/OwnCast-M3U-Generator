@@ -6,17 +6,11 @@ https://myddptv.site/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://sheridanmedia.tv/logo",Sheridan Media TV
 https://Sheridanmedia.tv/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://comingsoon.stream2.cursorpointer.be/logo",Coming Soon Radio
-https://comingsoon.stream2.cursorpointer.be/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://nyc.ccap.site/logo",CCAP TEACHING SERVICE
 https://nyc.ccap.site/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://radio67tv.tvabierta.net/logo",RADIO67TV
 https://radio67tv.tvabierta.net/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://zam.ccap.site/logo",ZAMBIA TEACHING NETWORK
-https://zam.ccap.site/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.thechampionstreamtwo.com/logo",CFTV LIVE
 http://live.thechampionstreamtwo.com/hls/stream.m3u8
@@ -26,6 +20,9 @@ https://moelove.us/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://mywbai.us/logo",WHCR LIVE STUDIO
 https://mywbai.us/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://zam.ccap.site/logo",ZAMBIA TEACHING NETWORK
+https://zam.ccap.site/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://my.webt.us/logo",COMMUNITY FREE ..by us for us
 https://my.webt.us/hls/stream.m3u8
