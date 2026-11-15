@@ -18,9 +18,6 @@ https://intergalactic.tv/live/smil:mtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://stream.ijmond360.it/logo" group-title="ijmond360",IJmond 360 Live Stream
 https://stream.ijmond360.it/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://wochenschautv.com/logo" group-title="movies",Wochenschau TV
-https://wochenschautv.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://watch.chiptune.fm/logo" group-title="Music",24/7 Chiptune Radio
 https://watch.chiptune.fm/hls/stream.m3u8
 
@@ -29,9 +26,6 @@ https://watch.vapor.fm/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.24hrkpop.com/logo" group-title="Music",24hr kpop TV Broadcast
 https://live.24hrkpop.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.etrusci.org/logo" group-title="Music",[E(T]RU){SCI}
-https://live.etrusci.org/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.away.video/logo" group-title="Music",Away Video
 https://live.away.video/hls/stream.m3u8
@@ -51,17 +45,14 @@ https://stream.flash-radio.de/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://intergalactic.fm/themes/custom/ifm/logo.svg" group-title="music",IFM - CBS TV
 https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.labr.online/logo" group-title="Music",LABR LIVE
-https://stream.labr.online/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://video.noderunnersradio.com/logo" group-title="Music",Noderunners Radio
 https://video.noderunnersradio.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://stream.princesspea.live/logo" group-title="Music",Princess Pea Live
+https://stream.princesspea.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://video.lpam.be/logo" group-title="Music",Radio Benelux Streaming
 https://video.lpam.be/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.liverobradio204.com/logo" group-title="Music",Rob Radio 204 - Live in Winnipeg
-https://www.liverobradio204.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.rokjok.fm/logo" group-title="Music",RokJok.FM
 http://live.rokjok.fm/hls/stream.m3u8
@@ -75,26 +66,17 @@ https://tv.theindiebeat.fm/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://live.uaena.info/logo" group-title="Music",Uaena.info Live
 https://live.uaena.info/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://2underground.com/logo" group-title="Music",Underground One Cast
-https://2underground.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://stream.unusualart.net/logo" group-title="Music",Unusual Art
 https://stream.unusualart.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.mthrbord.com/logo" group-title="Music",V O I D
 https://tv.mthrbord.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://radio.worldofdjschannel.com.br/logo" group-title="Music",World Of Djs Channel
-https://radio.worldofdjschannel.com.br/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://ocp.media-zoetermeer.nl/logo" group-title="nederland",Media Zoetermeer TV
 https://ocp.media-zoetermeer.nl/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://watch.owncast.online/logo" group-title="owncast",Owncast TV
 https://watch.owncast.online/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://31u.duckdns.org/logo" group-title="owncast",STUFF
-https://31u.duckdns.org/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://cartooncartoons.thatsoretro.com/logo" group-title="owncast",Toonami & Adult Swim Live
 https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
@@ -147,14 +129,17 @@ http://wf.newscentral.ng:9080/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://stream.radiohoogeveen.nl/logo" group-title="streaming",Owncast
 https://stream.radiohoogeveen.nl/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvrestaurandovidas.ovalcast.com/logo" group-title="streaming",Radio y TV Restaurando Vidas
+https://tvrestaurandovidas.ovalcast.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://video.radio-dragon-flame.com/logo" group-title="streaming",RDF Videostream
+https://video.radio-dragon-flame.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://live.retrostrange.com/logo" group-title="streaming",RetroStrange TV
 https://live.retrostrange.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.otternet.se/logo" group-title="streaming",Rävgrävlan Live Server
 https://live.otternet.se/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://evilgrinwink.com/logo" group-title="streaming",shrubey livestream
-https://evilgrinwink.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://stream.kdlc.click/logo" group-title="streaming",SMNI 24/7 Livestream
 https://stream.kdlc.click/hls/stream.m3u8
@@ -168,14 +153,8 @@ https://theupperleft.thesprawl.online/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://topisclub.duckdns.org/logo" group-title="streaming",Top.IS.Club
 https://topisclub.duckdns.org/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.cosigo.io/logo" group-title="streaming",Welcome to the COSIGO™ live stream. Discussion of the silver-backed ERC-20 token system and how communities can operate independent COSIGO satellite networks issuing their own tokens — for example COSIGO_youruniquetokennamehere.
-https://stream.cosigo.io/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.omroepnet.nl/logo" group-title="streaming",XON
 https://live.omroepnet.nl/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://xn--80aaa3bihs6d.burgame.top/logo" group-title="streaming",Шарманка
-https://xn--80aaa3bihs6d.burgame.top/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://arena.bawnet.io/logo" group-title="Tech",bawnet.io // The Arena
 https://arena.bawnet.io/hls/stream.m3u8
@@ -198,23 +177,17 @@ https://live.verniy.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tv.taina.net.br/logo" group-title="tv taina",TV Taina
 https://tv.taina.net.br/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://anarchism.boats/logo" group-title="Video Games",Accessible Anarchism (disabled and queer politics)
-https://anarchism.boats/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://owncast.astral0pitek.synology.me/logo" group-title="Video Games",astral0pitek's Owncast server
-https://owncast.astral0pitek.synology.me/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="http://167.99.157.0:8080/logo" group-title="Video Games",Channel 59
 http://167.99.157.0:8080/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://live.retrospection.xn--q9jyb4c/logo" group-title="Video Games",Old TS3 Gaming Cast
+https://live.retrospection.xn--q9jyb4c/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.thegreenwizard.win/logo" group-title="Video Games",The Green Wizard
+https://live.thegreenwizard.win/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo" group-title="Video Games",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://owncast.zalasur.media/logo" group-title="Video Games",Zalasur Media Live Streaming
-https://owncast.zalasur.media/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.bzzlghtyr.com/logo" group-title="Uncategorized",Bengals
-https://live.bzzlghtyr.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://mex.ccap.site/logo" group-title="Uncategorized",CCAP TEACHING NETWORK SERVICE
 https://mex.ccap.site/hls/stream.m3u8
@@ -224,6 +197,9 @@ https://nyc.ccap.site/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://myddptv.site/logo" group-title="Uncategorized",CHAC CHAPTER TEACHING NETWORK
 https://myddptv.site/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://my.webt.us/logo" group-title="Uncategorized",COMMUNITY FREE ..by us for us
+https://my.webt.us/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://cooperpark.us/logo" group-title="Uncategorized",cooperpark teaching network
 https://cooperpark.US/hls/stream.m3u8
