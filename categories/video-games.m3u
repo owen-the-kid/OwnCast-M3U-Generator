@@ -3,12 +3,6 @@
 #EXTINF:-1 tvg-logo="https://otcs.minuspoint.com/logo",The Old Timey Computer Show
 https://otcs.minuspoint.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://cast.samsai.eu/logo",Samsai's Owncast
-https://cast.samsai.eu/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://suou.net/logo",bss's Tenuous Stream
-https://suou.net/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://owncast.zalasur.media/logo",Zalasur Media Live Streaming
 https://owncast.zalasur.media/hls/stream.m3u8
 
