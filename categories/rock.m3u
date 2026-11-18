@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://owncast.flaemingradio.de/logo",Flämingradio – Live aus dem Studio
+https://owncast.flaemingradio.de/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://live.beat-zentrale.de/logo",Beat-Zentrale TV
 https://live.beat-zentrale.de/hls/stream.m3u8
 
