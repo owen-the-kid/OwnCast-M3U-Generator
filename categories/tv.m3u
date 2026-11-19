@@ -1,19 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://live.gongo.tv/logo",Gongo
-https://live.gongo.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://live.retrostrange.com/logo",RetroStrange TV
+https://live.retrostrange.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://wochenschautv.com/logo",Wochenschau TV
 https://wochenschautv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.retrostrange.com/logo",RetroStrange TV
-https://live.retrostrange.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.verniy.tv/logo",Bep
 https://live.verniy.tv/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.omroepnet.nl/logo",XON
-https://live.omroepnet.nl/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.88x31.app/logo",88x31 TV
 https://live.88x31.app/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.omroepnet.nl/logo",XON
+https://live.omroepnet.nl/hls/stream.m3u8
